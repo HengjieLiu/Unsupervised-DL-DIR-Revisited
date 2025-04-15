@@ -1,0 +1,16 @@
+# configs/config_oasis_v1.yaml
+
+### Note:
+#     1. vxm model
+#            There is no official voxelmorph in the TransMorph/OASIS folder, I will use LUMIR_L2R for now
+#     2. img_size
+#            OASIS_v1 is reoriented to match with LUMIR in its dataloader:
+#                /homebase/DL_projects/wavereg/scripts/250218_oasis_v1/myutils/datasets.py
+dataset_name: LUMIR_v1
+img_size: [160, 224, 192]
+transmorph_dir: /homebase/DL_projects/wavereg/TransMorph_Transformer_for_Medical_Image_Registration/OASIS/TransMorph
+voxelmorph_models_path: /homebase/DL_projects/wavereg/LUMIR_L2R/VoxelMorph/models.py
+train_dir: /database/wavereg/datasets/LUMIR_L2R/LUMIR_L2R24_TrainVal/  # note this trailing / is needed
+val_dir: /database/wavereg/datasets/LUMIR_L2R/LUMIR_L2R24_TrainVal/    # note this trailing / is needed
+test_dir: null
+json_path: /database/wavereg/datasets/LUMIR_L2R/LUMIR_L2R24_TrainVal/LUMIR_dataset.json

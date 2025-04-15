@@ -1,0 +1,7 @@
+img_size: [160, 224, 192]
+n_output_channels: 3
+n_levels: 5
+n_input_features_per_level: [16, 32, 32, 64, 64]
+n_attention_per_level: [16, 32, 32, 64, 64]
+decoder_type: "pyramidal_vfa_std"
+dp_block_type: "dp_vfa_std"

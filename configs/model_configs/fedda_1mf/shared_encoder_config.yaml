@@ -1,0 +1,12 @@
+img_size: [160, 224, 192]
+n_input_channels: 1
+n_levels: 5
+n_features_per_level: [16, 32, 32, 64, 64]
+encoder_type: "cnn_std"
+block_type: "convblock_std_stride"
+kernel_size: 3
+bias: true
+n_convolutions: 2
+res_skip: true
+act_name: ["leakyrelu", {"inplace": true, "negative_slope": 0.2}]
+norm_name: ["instance", {"affine": true}]

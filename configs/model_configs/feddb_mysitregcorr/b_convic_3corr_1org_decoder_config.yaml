@@ -1,0 +1,14 @@
+img_size: [160, 224, 192]
+n_output_channels: 3
+n_levels: 5
+n_input_features_per_level: [16, 32, 32, 64, 64]
+n_features_per_level: [32, 64, 64, 128, 128]
+decoder_type: "pyramidal_cnn_sitreg"
+# block_type: 
+kernel_size: 3
+bias: true
+n_convolutions: 2
+res_skip: true
+act_name: ["leakyrelu", {"inplace": true, "negative_slope": 0.2}]
+norm_name: ["instance", {"affine": true}]
+add_feat: {"name": "corronly", "type": 'org', "radius": 1}
