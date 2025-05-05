@@ -34,6 +34,8 @@ We also thank the following repositories for providing helpful code and data res
 - [TransMorph](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
 - [LUMIR](https://github.com/JHU-MedImage-Reg/LUMIR_L2R)
 - [L2R](https://github.com/MDL-UzL/L2R)
+- [deformation-inversion-layer](https://github.com/honkamj/deformation-inversion-layer)
+- [composable-mapping](https://github.com/honkamj/composable-mapping)
 
 # Extended results
 <a name="lumir-validation-results"></a>
