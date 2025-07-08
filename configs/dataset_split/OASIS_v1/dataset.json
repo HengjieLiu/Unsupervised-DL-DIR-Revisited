@@ -1,0 +1,3312 @@
+{
+    "training": [
+        {
+            "image": "./train/img0001.nii.gz",
+            "seg": "./train/seg0001.nii.gz"
+        },
+        {
+            "image": "./train/img0002.nii.gz",
+            "seg": "./train/seg0002.nii.gz"
+        },
+        {
+            "image": "./train/img0003.nii.gz",
+            "seg": "./train/seg0003.nii.gz"
+        },
+        {
+            "image": "./train/img0005.nii.gz",
+            "seg": "./train/seg0005.nii.gz"
+        },
+        {
+            "image": "./train/img0006.nii.gz",
+            "seg": "./train/seg0006.nii.gz"
+        },
+        {
+            "image": "./train/img0007.nii.gz",
+            "seg": "./train/seg0007.nii.gz"
+        },
+        {
+            "image": "./train/img0008.nii.gz",
+            "seg": "./train/seg0008.nii.gz"
+        },
+        {
+            "image": "./train/img0009.nii.gz",
+            "seg": "./train/seg0009.nii.gz"
+        },
+        {
+            "image": "./train/img0010.nii.gz",
+            "seg": "./train/seg0010.nii.gz"
+        },
+        {
+            "image": "./train/img0011.nii.gz",
+            "seg": "./train/seg0011.nii.gz"
+        },
+        {
+            "image": "./train/img0012.nii.gz",
+            "seg": "./train/seg0012.nii.gz"
+        },
+        {
+            "image": "./train/img0015.nii.gz",
+            "seg": "./train/seg0015.nii.gz"
+        },
+        {
+            "image": "./train/img0018.nii.gz",
+            "seg": "./train/seg0018.nii.gz"
+        },
+        {
+            "image": "./train/img0019.nii.gz",
+            "seg": "./train/seg0019.nii.gz"
+        },
+        {
+            "image": "./train/img0020.nii.gz",
+            "seg": "./train/seg0020.nii.gz"
+        },
+        {
+            "image": "./train/img0021.nii.gz",
+            "seg": "./train/seg0021.nii.gz"
+        },
+        {
+            "image": "./train/img0022.nii.gz",
+            "seg": "./train/seg0022.nii.gz"
+        },
+        {
+            "image": "./train/img0025.nii.gz",
+            "seg": "./train/seg0025.nii.gz"
+        },
+        {
+            "image": "./train/img0026.nii.gz",
+            "seg": "./train/seg0026.nii.gz"
+        },
+        {
+            "image": "./train/img0027.nii.gz",
+            "seg": "./train/seg0027.nii.gz"
+        },
+        {
+            "image": "./train/img0028.nii.gz",
+            "seg": "./train/seg0028.nii.gz"
+        },
+        {
+            "image": "./train/img0030.nii.gz",
+            "seg": "./train/seg0030.nii.gz"
+        },
+        {
+            "image": "./train/img0031.nii.gz",
+            "seg": "./train/seg0031.nii.gz"
+        },
+        {
+            "image": "./train/img0032.nii.gz",
+            "seg": "./train/seg0032.nii.gz"
+        },
+        {
+            "image": "./train/img0033.nii.gz",
+            "seg": "./train/seg0033.nii.gz"
+        },
+        {
+            "image": "./train/img0035.nii.gz",
+            "seg": "./train/seg0035.nii.gz"
+        },
+        {
+            "image": "./train/img0038.nii.gz",
+            "seg": "./train/seg0038.nii.gz"
+        },
+        {
+            "image": "./train/img0039.nii.gz",
+            "seg": "./train/seg0039.nii.gz"
+        },
+        {
+            "image": "./train/img0040.nii.gz",
+            "seg": "./train/seg0040.nii.gz"
+        },
+        {
+            "image": "./train/img0042.nii.gz",
+            "seg": "./train/seg0042.nii.gz"
+        },
+        {
+            "image": "./train/img0043.nii.gz",
+            "seg": "./train/seg0043.nii.gz"
+        },
+        {
+            "image": "./train/img0044.nii.gz",
+            "seg": "./train/seg0044.nii.gz"
+        },
+        {
+            "image": "./train/img0046.nii.gz",
+            "seg": "./train/seg0046.nii.gz"
+        },
+        {
+            "image": "./train/img0047.nii.gz",
+            "seg": "./train/seg0047.nii.gz"
+        },
+        {
+            "image": "./train/img0049.nii.gz",
+            "seg": "./train/seg0049.nii.gz"
+        },
+        {
+            "image": "./train/img0051.nii.gz",
+            "seg": "./train/seg0051.nii.gz"
+        },
+        {
+            "image": "./train/img0054.nii.gz",
+            "seg": "./train/seg0054.nii.gz"
+        },
+        {
+            "image": "./train/img0055.nii.gz",
+            "seg": "./train/seg0055.nii.gz"
+        },
+        {
+            "image": "./train/img0056.nii.gz",
+            "seg": "./train/seg0056.nii.gz"
+        },
+        {
+            "image": "./train/img0057.nii.gz",
+            "seg": "./train/seg0057.nii.gz"
+        },
+        {
+            "image": "./train/img0059.nii.gz",
+            "seg": "./train/seg0059.nii.gz"
+        },
+        {
+            "image": "./train/img0060.nii.gz",
+            "seg": "./train/seg0060.nii.gz"
+        },
+        {
+            "image": "./train/img0061.nii.gz",
+            "seg": "./train/seg0061.nii.gz"
+        },
+        {
+            "image": "./train/img0062.nii.gz",
+            "seg": "./train/seg0062.nii.gz"
+        },
+        {
+            "image": "./train/img0063.nii.gz",
+            "seg": "./train/seg0063.nii.gz"
+        },
+        {
+            "image": "./train/img0065.nii.gz",
+            "seg": "./train/seg0065.nii.gz"
+        },
+        {
+            "image": "./train/img0066.nii.gz",
+            "seg": "./train/seg0066.nii.gz"
+        },
+        {
+            "image": "./train/img0067.nii.gz",
+            "seg": "./train/seg0067.nii.gz"
+        },
+        {
+            "image": "./train/img0068.nii.gz",
+            "seg": "./train/seg0068.nii.gz"
+        },
+        {
+            "image": "./train/img0069.nii.gz",
+            "seg": "./train/seg0069.nii.gz"
+        },
+        {
+            "image": "./train/img0070.nii.gz",
+            "seg": "./train/seg0070.nii.gz"
+        },
+        {
+            "image": "./train/img0071.nii.gz",
+            "seg": "./train/seg0071.nii.gz"
+        },
+        {
+            "image": "./train/img0073.nii.gz",
+            "seg": "./train/seg0073.nii.gz"
+        },
+        {
+            "image": "./train/img0075.nii.gz",
+            "seg": "./train/seg0075.nii.gz"
+        },
+        {
+            "image": "./train/img0076.nii.gz",
+            "seg": "./train/seg0076.nii.gz"
+        },
+        {
+            "image": "./train/img0077.nii.gz",
+            "seg": "./train/seg0077.nii.gz"
+        },
+        {
+            "image": "./train/img0078.nii.gz",
+            "seg": "./train/seg0078.nii.gz"
+        },
+        {
+            "image": "./train/img0079.nii.gz",
+            "seg": "./train/seg0079.nii.gz"
+        },
+        {
+            "image": "./train/img0081.nii.gz",
+            "seg": "./train/seg0081.nii.gz"
+        },
+        {
+            "image": "./train/img0083.nii.gz",
+            "seg": "./train/seg0083.nii.gz"
+        },
+        {
+            "image": "./train/img0085.nii.gz",
+            "seg": "./train/seg0085.nii.gz"
+        },
+        {
+            "image": "./train/img0086.nii.gz",
+            "seg": "./train/seg0086.nii.gz"
+        },
+        {
+            "image": "./train/img0087.nii.gz",
+            "seg": "./train/seg0087.nii.gz"
+        },
+        {
+            "image": "./train/img0089.nii.gz",
+            "seg": "./train/seg0089.nii.gz"
+        },
+        {
+            "image": "./train/img0090.nii.gz",
+            "seg": "./train/seg0090.nii.gz"
+        },
+        {
+            "image": "./train/img0091.nii.gz",
+            "seg": "./train/seg0091.nii.gz"
+        },
+        {
+            "image": "./train/img0092.nii.gz",
+            "seg": "./train/seg0092.nii.gz"
+        },
+        {
+            "image": "./train/img0093.nii.gz",
+            "seg": "./train/seg0093.nii.gz"
+        },
+        {
+            "image": "./train/img0094.nii.gz",
+            "seg": "./train/seg0094.nii.gz"
+        },
+        {
+            "image": "./train/img0095.nii.gz",
+            "seg": "./train/seg0095.nii.gz"
+        },
+        {
+            "image": "./train/img0096.nii.gz",
+            "seg": "./train/seg0096.nii.gz"
+        },
+        {
+            "image": "./train/img0097.nii.gz",
+            "seg": "./train/seg0097.nii.gz"
+        },
+        {
+            "image": "./train/img0098.nii.gz",
+            "seg": "./train/seg0098.nii.gz"
+        },
+        {
+            "image": "./train/img0100.nii.gz",
+            "seg": "./train/seg0100.nii.gz"
+        },
+        {
+            "image": "./train/img0101.nii.gz",
+            "seg": "./train/seg0101.nii.gz"
+        },
+        {
+            "image": "./train/img0103.nii.gz",
+            "seg": "./train/seg0103.nii.gz"
+        },
+        {
+            "image": "./train/img0104.nii.gz",
+            "seg": "./train/seg0104.nii.gz"
+        },
+        {
+            "image": "./train/img0105.nii.gz",
+            "seg": "./train/seg0105.nii.gz"
+        },
+        {
+            "image": "./train/img0106.nii.gz",
+            "seg": "./train/seg0106.nii.gz"
+        },
+        {
+            "image": "./train/img0107.nii.gz",
+            "seg": "./train/seg0107.nii.gz"
+        },
+        {
+            "image": "./train/img0110.nii.gz",
+            "seg": "./train/seg0110.nii.gz"
+        },
+        {
+            "image": "./train/img0114.nii.gz",
+            "seg": "./train/seg0114.nii.gz"
+        },
+        {
+            "image": "./train/img0116.nii.gz",
+            "seg": "./train/seg0116.nii.gz"
+        },
+        {
+            "image": "./train/img0119.nii.gz",
+            "seg": "./train/seg0119.nii.gz"
+        },
+        {
+            "image": "./train/img0121.nii.gz",
+            "seg": "./train/seg0121.nii.gz"
+        },
+        {
+            "image": "./train/img0122.nii.gz",
+            "seg": "./train/seg0122.nii.gz"
+        },
+        {
+            "image": "./train/img0123.nii.gz",
+            "seg": "./train/seg0123.nii.gz"
+        },
+        {
+            "image": "./train/img0124.nii.gz",
+            "seg": "./train/seg0124.nii.gz"
+        },
+        {
+            "image": "./train/img0125.nii.gz",
+            "seg": "./train/seg0125.nii.gz"
+        },
+        {
+            "image": "./train/img0128.nii.gz",
+            "seg": "./train/seg0128.nii.gz"
+        },
+        {
+            "image": "./train/img0129.nii.gz",
+            "seg": "./train/seg0129.nii.gz"
+        },
+        {
+            "image": "./train/img0130.nii.gz",
+            "seg": "./train/seg0130.nii.gz"
+        },
+        {
+            "image": "./train/img0131.nii.gz",
+            "seg": "./train/seg0131.nii.gz"
+        },
+        {
+            "image": "./train/img0132.nii.gz",
+            "seg": "./train/seg0132.nii.gz"
+        },
+        {
+            "image": "./train/img0133.nii.gz",
+            "seg": "./train/seg0133.nii.gz"
+        },
+        {
+            "image": "./train/img0134.nii.gz",
+            "seg": "./train/seg0134.nii.gz"
+        },
+        {
+            "image": "./train/img0135.nii.gz",
+            "seg": "./train/seg0135.nii.gz"
+        },
+        {
+            "image": "./train/img0140.nii.gz",
+            "seg": "./train/seg0140.nii.gz"
+        },
+        {
+            "image": "./train/img0142.nii.gz",
+            "seg": "./train/seg0142.nii.gz"
+        },
+        {
+            "image": "./train/img0144.nii.gz",
+            "seg": "./train/seg0144.nii.gz"
+        },
+        {
+            "image": "./train/img0145.nii.gz",
+            "seg": "./train/seg0145.nii.gz"
+        },
+        {
+            "image": "./train/img0146.nii.gz",
+            "seg": "./train/seg0146.nii.gz"
+        },
+        {
+            "image": "./train/img0147.nii.gz",
+            "seg": "./train/seg0147.nii.gz"
+        },
+        {
+            "image": "./train/img0148.nii.gz",
+            "seg": "./train/seg0148.nii.gz"
+        },
+        {
+            "image": "./train/img0150.nii.gz",
+            "seg": "./train/seg0150.nii.gz"
+        },
+        {
+            "image": "./train/img0152.nii.gz",
+            "seg": "./train/seg0152.nii.gz"
+        },
+        {
+            "image": "./train/img0153.nii.gz",
+            "seg": "./train/seg0153.nii.gz"
+        },
+        {
+            "image": "./train/img0154.nii.gz",
+            "seg": "./train/seg0154.nii.gz"
+        },
+        {
+            "image": "./train/img0155.nii.gz",
+            "seg": "./train/seg0155.nii.gz"
+        },
+        {
+            "image": "./train/img0156.nii.gz",
+            "seg": "./train/seg0156.nii.gz"
+        },
+        {
+            "image": "./train/img0157.nii.gz",
+            "seg": "./train/seg0157.nii.gz"
+        },
+        {
+            "image": "./train/img0158.nii.gz",
+            "seg": "./train/seg0158.nii.gz"
+        },
+        {
+            "image": "./train/img0159.nii.gz",
+            "seg": "./train/seg0159.nii.gz"
+        },
+        {
+            "image": "./train/img0160.nii.gz",
+            "seg": "./train/seg0160.nii.gz"
+        },
+        {
+            "image": "./train/img0161.nii.gz",
+            "seg": "./train/seg0161.nii.gz"
+        },
+        {
+            "image": "./train/img0163.nii.gz",
+            "seg": "./train/seg0163.nii.gz"
+        },
+        {
+            "image": "./train/img0164.nii.gz",
+            "seg": "./train/seg0164.nii.gz"
+        },
+        {
+            "image": "./train/img0165.nii.gz",
+            "seg": "./train/seg0165.nii.gz"
+        },
+        {
+            "image": "./train/img0166.nii.gz",
+            "seg": "./train/seg0166.nii.gz"
+        },
+        {
+            "image": "./train/img0168.nii.gz",
+            "seg": "./train/seg0168.nii.gz"
+        },
+        {
+            "image": "./train/img0169.nii.gz",
+            "seg": "./train/seg0169.nii.gz"
+        },
+        {
+            "image": "./train/img0170.nii.gz",
+            "seg": "./train/seg0170.nii.gz"
+        },
+        {
+            "image": "./train/img0171.nii.gz",
+            "seg": "./train/seg0171.nii.gz"
+        },
+        {
+            "image": "./train/img0172.nii.gz",
+            "seg": "./train/seg0172.nii.gz"
+        },
+        {
+            "image": "./train/img0174.nii.gz",
+            "seg": "./train/seg0174.nii.gz"
+        },
+        {
+            "image": "./train/img0176.nii.gz",
+            "seg": "./train/seg0176.nii.gz"
+        },
+        {
+            "image": "./train/img0178.nii.gz",
+            "seg": "./train/seg0178.nii.gz"
+        },
+        {
+            "image": "./train/img0179.nii.gz",
+            "seg": "./train/seg0179.nii.gz"
+        },
+        {
+            "image": "./train/img0180.nii.gz",
+            "seg": "./train/seg0180.nii.gz"
+        },
+        {
+            "image": "./train/img0181.nii.gz",
+            "seg": "./train/seg0181.nii.gz"
+        },
+        {
+            "image": "./train/img0183.nii.gz",
+            "seg": "./train/seg0183.nii.gz"
+        },
+        {
+            "image": "./train/img0185.nii.gz",
+            "seg": "./train/seg0185.nii.gz"
+        },
+        {
+            "image": "./train/img0188.nii.gz",
+            "seg": "./train/seg0188.nii.gz"
+        },
+        {
+            "image": "./train/img0189.nii.gz",
+            "seg": "./train/seg0189.nii.gz"
+        },
+        {
+            "image": "./train/img0191.nii.gz",
+            "seg": "./train/seg0191.nii.gz"
+        },
+        {
+            "image": "./train/img0192.nii.gz",
+            "seg": "./train/seg0192.nii.gz"
+        },
+        {
+            "image": "./train/img0193.nii.gz",
+            "seg": "./train/seg0193.nii.gz"
+        },
+        {
+            "image": "./train/img0196.nii.gz",
+            "seg": "./train/seg0196.nii.gz"
+        },
+        {
+            "image": "./train/img0197.nii.gz",
+            "seg": "./train/seg0197.nii.gz"
+        },
+        {
+            "image": "./train/img0198.nii.gz",
+            "seg": "./train/seg0198.nii.gz"
+        },
+        {
+            "image": "./train/img0199.nii.gz",
+            "seg": "./train/seg0199.nii.gz"
+        },
+        {
+            "image": "./train/img0200.nii.gz",
+            "seg": "./train/seg0200.nii.gz"
+        },
+        {
+            "image": "./train/img0201.nii.gz",
+            "seg": "./train/seg0201.nii.gz"
+        },
+        {
+            "image": "./train/img0202.nii.gz",
+            "seg": "./train/seg0202.nii.gz"
+        },
+        {
+            "image": "./train/img0204.nii.gz",
+            "seg": "./train/seg0204.nii.gz"
+        },
+        {
+            "image": "./train/img0205.nii.gz",
+            "seg": "./train/seg0205.nii.gz"
+        },
+        {
+            "image": "./train/img0207.nii.gz",
+            "seg": "./train/seg0207.nii.gz"
+        },
+        {
+            "image": "./train/img0208.nii.gz",
+            "seg": "./train/seg0208.nii.gz"
+        },
+        {
+            "image": "./train/img0209.nii.gz",
+            "seg": "./train/seg0209.nii.gz"
+        },
+        {
+            "image": "./train/img0210.nii.gz",
+            "seg": "./train/seg0210.nii.gz"
+        },
+        {
+            "image": "./train/img0211.nii.gz",
+            "seg": "./train/seg0211.nii.gz"
+        },
+        {
+            "image": "./train/img0212.nii.gz",
+            "seg": "./train/seg0212.nii.gz"
+        },
+        {
+            "image": "./train/img0213.nii.gz",
+            "seg": "./train/seg0213.nii.gz"
+        },
+        {
+            "image": "./train/img0214.nii.gz",
+            "seg": "./train/seg0214.nii.gz"
+        },
+        {
+            "image": "./train/img0216.nii.gz",
+            "seg": "./train/seg0216.nii.gz"
+        },
+        {
+            "image": "./train/img0218.nii.gz",
+            "seg": "./train/seg0218.nii.gz"
+        },
+        {
+            "image": "./train/img0219.nii.gz",
+            "seg": "./train/seg0219.nii.gz"
+        },
+        {
+            "image": "./train/img0220.nii.gz",
+            "seg": "./train/seg0220.nii.gz"
+        },
+        {
+            "image": "./train/img0221.nii.gz",
+            "seg": "./train/seg0221.nii.gz"
+        },
+        {
+            "image": "./train/img0222.nii.gz",
+            "seg": "./train/seg0222.nii.gz"
+        },
+        {
+            "image": "./train/img0223.nii.gz",
+            "seg": "./train/seg0223.nii.gz"
+        },
+        {
+            "image": "./train/img0224.nii.gz",
+            "seg": "./train/seg0224.nii.gz"
+        },
+        {
+            "image": "./train/img0225.nii.gz",
+            "seg": "./train/seg0225.nii.gz"
+        },
+        {
+            "image": "./train/img0226.nii.gz",
+            "seg": "./train/seg0226.nii.gz"
+        },
+        {
+            "image": "./train/img0227.nii.gz",
+            "seg": "./train/seg0227.nii.gz"
+        },
+        {
+            "image": "./train/img0228.nii.gz",
+            "seg": "./train/seg0228.nii.gz"
+        },
+        {
+            "image": "./train/img0229.nii.gz",
+            "seg": "./train/seg0229.nii.gz"
+        },
+        {
+            "image": "./train/img0231.nii.gz",
+            "seg": "./train/seg0231.nii.gz"
+        },
+        {
+            "image": "./train/img0232.nii.gz",
+            "seg": "./train/seg0232.nii.gz"
+        },
+        {
+            "image": "./train/img0234.nii.gz",
+            "seg": "./train/seg0234.nii.gz"
+        },
+        {
+            "image": "./train/img0238.nii.gz",
+            "seg": "./train/seg0238.nii.gz"
+        },
+        {
+            "image": "./train/img0239.nii.gz",
+            "seg": "./train/seg0239.nii.gz"
+        },
+        {
+            "image": "./train/img0240.nii.gz",
+            "seg": "./train/seg0240.nii.gz"
+        },
+        {
+            "image": "./train/img0241.nii.gz",
+            "seg": "./train/seg0241.nii.gz"
+        },
+        {
+            "image": "./train/img0242.nii.gz",
+            "seg": "./train/seg0242.nii.gz"
+        },
+        {
+            "image": "./train/img0243.nii.gz",
+            "seg": "./train/seg0243.nii.gz"
+        },
+        {
+            "image": "./train/img0244.nii.gz",
+            "seg": "./train/seg0244.nii.gz"
+        },
+        {
+            "image": "./train/img0245.nii.gz",
+            "seg": "./train/seg0245.nii.gz"
+        },
+        {
+            "image": "./train/img0246.nii.gz",
+            "seg": "./train/seg0246.nii.gz"
+        },
+        {
+            "image": "./train/img0247.nii.gz",
+            "seg": "./train/seg0247.nii.gz"
+        },
+        {
+            "image": "./train/img0248.nii.gz",
+            "seg": "./train/seg0248.nii.gz"
+        },
+        {
+            "image": "./train/img0249.nii.gz",
+            "seg": "./train/seg0249.nii.gz"
+        },
+        {
+            "image": "./train/img0250.nii.gz",
+            "seg": "./train/seg0250.nii.gz"
+        },
+        {
+            "image": "./train/img0251.nii.gz",
+            "seg": "./train/seg0251.nii.gz"
+        },
+        {
+            "image": "./train/img0252.nii.gz",
+            "seg": "./train/seg0252.nii.gz"
+        },
+        {
+            "image": "./train/img0253.nii.gz",
+            "seg": "./train/seg0253.nii.gz"
+        },
+        {
+            "image": "./train/img0254.nii.gz",
+            "seg": "./train/seg0254.nii.gz"
+        },
+        {
+            "image": "./train/img0255.nii.gz",
+            "seg": "./train/seg0255.nii.gz"
+        },
+        {
+            "image": "./train/img0257.nii.gz",
+            "seg": "./train/seg0257.nii.gz"
+        },
+        {
+            "image": "./train/img0258.nii.gz",
+            "seg": "./train/seg0258.nii.gz"
+        },
+        {
+            "image": "./train/img0260.nii.gz",
+            "seg": "./train/seg0260.nii.gz"
+        },
+        {
+            "image": "./train/img0261.nii.gz",
+            "seg": "./train/seg0261.nii.gz"
+        },
+        {
+            "image": "./train/img0262.nii.gz",
+            "seg": "./train/seg0262.nii.gz"
+        },
+        {
+            "image": "./train/img0263.nii.gz",
+            "seg": "./train/seg0263.nii.gz"
+        },
+        {
+            "image": "./train/img0264.nii.gz",
+            "seg": "./train/seg0264.nii.gz"
+        },
+        {
+            "image": "./train/img0265.nii.gz",
+            "seg": "./train/seg0265.nii.gz"
+        },
+        {
+            "image": "./train/img0266.nii.gz",
+            "seg": "./train/seg0266.nii.gz"
+        },
+        {
+            "image": "./train/img0267.nii.gz",
+            "seg": "./train/seg0267.nii.gz"
+        },
+        {
+            "image": "./train/img0268.nii.gz",
+            "seg": "./train/seg0268.nii.gz"
+        },
+        {
+            "image": "./train/img0269.nii.gz",
+            "seg": "./train/seg0269.nii.gz"
+        },
+        {
+            "image": "./train/img0270.nii.gz",
+            "seg": "./train/seg0270.nii.gz"
+        },
+        {
+            "image": "./train/img0271.nii.gz",
+            "seg": "./train/seg0271.nii.gz"
+        },
+        {
+            "image": "./train/img0272.nii.gz",
+            "seg": "./train/seg0272.nii.gz"
+        },
+        {
+            "image": "./train/img0273.nii.gz",
+            "seg": "./train/seg0273.nii.gz"
+        },
+        {
+            "image": "./train/img0276.nii.gz",
+            "seg": "./train/seg0276.nii.gz"
+        },
+        {
+            "image": "./train/img0277.nii.gz",
+            "seg": "./train/seg0277.nii.gz"
+        },
+        {
+            "image": "./train/img0278.nii.gz",
+            "seg": "./train/seg0278.nii.gz"
+        },
+        {
+            "image": "./train/img0279.nii.gz",
+            "seg": "./train/seg0279.nii.gz"
+        },
+        {
+            "image": "./train/img0281.nii.gz",
+            "seg": "./train/seg0281.nii.gz"
+        },
+        {
+            "image": "./train/img0282.nii.gz",
+            "seg": "./train/seg0282.nii.gz"
+        },
+        {
+            "image": "./train/img0284.nii.gz",
+            "seg": "./train/seg0284.nii.gz"
+        },
+        {
+            "image": "./train/img0285.nii.gz",
+            "seg": "./train/seg0285.nii.gz"
+        },
+        {
+            "image": "./train/img0287.nii.gz",
+            "seg": "./train/seg0287.nii.gz"
+        },
+        {
+            "image": "./train/img0289.nii.gz",
+            "seg": "./train/seg0289.nii.gz"
+        },
+        {
+            "image": "./train/img0290.nii.gz",
+            "seg": "./train/seg0290.nii.gz"
+        },
+        {
+            "image": "./train/img0292.nii.gz",
+            "seg": "./train/seg0292.nii.gz"
+        },
+        {
+            "image": "./train/img0293.nii.gz",
+            "seg": "./train/seg0293.nii.gz"
+        },
+        {
+            "image": "./train/img0294.nii.gz",
+            "seg": "./train/seg0294.nii.gz"
+        },
+        {
+            "image": "./train/img0295.nii.gz",
+            "seg": "./train/seg0295.nii.gz"
+        },
+        {
+            "image": "./train/img0297.nii.gz",
+            "seg": "./train/seg0297.nii.gz"
+        },
+        {
+            "image": "./train/img0298.nii.gz",
+            "seg": "./train/seg0298.nii.gz"
+        },
+        {
+            "image": "./train/img0299.nii.gz",
+            "seg": "./train/seg0299.nii.gz"
+        },
+        {
+            "image": "./train/img0300.nii.gz",
+            "seg": "./train/seg0300.nii.gz"
+        },
+        {
+            "image": "./train/img0301.nii.gz",
+            "seg": "./train/seg0301.nii.gz"
+        },
+        {
+            "image": "./train/img0304.nii.gz",
+            "seg": "./train/seg0304.nii.gz"
+        },
+        {
+            "image": "./train/img0305.nii.gz",
+            "seg": "./train/seg0305.nii.gz"
+        },
+        {
+            "image": "./train/img0306.nii.gz",
+            "seg": "./train/seg0306.nii.gz"
+        },
+        {
+            "image": "./train/img0307.nii.gz",
+            "seg": "./train/seg0307.nii.gz"
+        },
+        {
+            "image": "./train/img0308.nii.gz",
+            "seg": "./train/seg0308.nii.gz"
+        },
+        {
+            "image": "./train/img0313.nii.gz",
+            "seg": "./train/seg0313.nii.gz"
+        },
+        {
+            "image": "./train/img0314.nii.gz",
+            "seg": "./train/seg0314.nii.gz"
+        },
+        {
+            "image": "./train/img0316.nii.gz",
+            "seg": "./train/seg0316.nii.gz"
+        },
+        {
+            "image": "./train/img0318.nii.gz",
+            "seg": "./train/seg0318.nii.gz"
+        },
+        {
+            "image": "./train/img0319.nii.gz",
+            "seg": "./train/seg0319.nii.gz"
+        },
+        {
+            "image": "./train/img0320.nii.gz",
+            "seg": "./train/seg0320.nii.gz"
+        },
+        {
+            "image": "./train/img0321.nii.gz",
+            "seg": "./train/seg0321.nii.gz"
+        },
+        {
+            "image": "./train/img0323.nii.gz",
+            "seg": "./train/seg0323.nii.gz"
+        },
+        {
+            "image": "./train/img0324.nii.gz",
+            "seg": "./train/seg0324.nii.gz"
+        },
+        {
+            "image": "./train/img0325.nii.gz",
+            "seg": "./train/seg0325.nii.gz"
+        },
+        {
+            "image": "./train/img0327.nii.gz",
+            "seg": "./train/seg0327.nii.gz"
+        },
+        {
+            "image": "./train/img0329.nii.gz",
+            "seg": "./train/seg0329.nii.gz"
+        },
+        {
+            "image": "./train/img0330.nii.gz",
+            "seg": "./train/seg0330.nii.gz"
+        },
+        {
+            "image": "./train/img0331.nii.gz",
+            "seg": "./train/seg0331.nii.gz"
+        },
+        {
+            "image": "./train/img0332.nii.gz",
+            "seg": "./train/seg0332.nii.gz"
+        },
+        {
+            "image": "./train/img0334.nii.gz",
+            "seg": "./train/seg0334.nii.gz"
+        },
+        {
+            "image": "./train/img0335.nii.gz",
+            "seg": "./train/seg0335.nii.gz"
+        },
+        {
+            "image": "./train/img0337.nii.gz",
+            "seg": "./train/seg0337.nii.gz"
+        },
+        {
+            "image": "./train/img0340.nii.gz",
+            "seg": "./train/seg0340.nii.gz"
+        },
+        {
+            "image": "./train/img0342.nii.gz",
+            "seg": "./train/seg0342.nii.gz"
+        },
+        {
+            "image": "./train/img0343.nii.gz",
+            "seg": "./train/seg0343.nii.gz"
+        },
+        {
+            "image": "./train/img0344.nii.gz",
+            "seg": "./train/seg0344.nii.gz"
+        },
+        {
+            "image": "./train/img0345.nii.gz",
+            "seg": "./train/seg0345.nii.gz"
+        },
+        {
+            "image": "./train/img0346.nii.gz",
+            "seg": "./train/seg0346.nii.gz"
+        },
+        {
+            "image": "./train/img0348.nii.gz",
+            "seg": "./train/seg0348.nii.gz"
+        },
+        {
+            "image": "./train/img0349.nii.gz",
+            "seg": "./train/seg0349.nii.gz"
+        },
+        {
+            "image": "./train/img0350.nii.gz",
+            "seg": "./train/seg0350.nii.gz"
+        },
+        {
+            "image": "./train/img0351.nii.gz",
+            "seg": "./train/seg0351.nii.gz"
+        },
+        {
+            "image": "./train/img0352.nii.gz",
+            "seg": "./train/seg0352.nii.gz"
+        },
+        {
+            "image": "./train/img0353.nii.gz",
+            "seg": "./train/seg0353.nii.gz"
+        },
+        {
+            "image": "./train/img0354.nii.gz",
+            "seg": "./train/seg0354.nii.gz"
+        },
+        {
+            "image": "./train/img0355.nii.gz",
+            "seg": "./train/seg0355.nii.gz"
+        },
+        {
+            "image": "./train/img0356.nii.gz",
+            "seg": "./train/seg0356.nii.gz"
+        },
+        {
+            "image": "./train/img0359.nii.gz",
+            "seg": "./train/seg0359.nii.gz"
+        },
+        {
+            "image": "./train/img0361.nii.gz",
+            "seg": "./train/seg0361.nii.gz"
+        },
+        {
+            "image": "./train/img0362.nii.gz",
+            "seg": "./train/seg0362.nii.gz"
+        },
+        {
+            "image": "./train/img0364.nii.gz",
+            "seg": "./train/seg0364.nii.gz"
+        },
+        {
+            "image": "./train/img0365.nii.gz",
+            "seg": "./train/seg0365.nii.gz"
+        },
+        {
+            "image": "./train/img0366.nii.gz",
+            "seg": "./train/seg0366.nii.gz"
+        },
+        {
+            "image": "./train/img0369.nii.gz",
+            "seg": "./train/seg0369.nii.gz"
+        },
+        {
+            "image": "./train/img0370.nii.gz",
+            "seg": "./train/seg0370.nii.gz"
+        },
+        {
+            "image": "./train/img0371.nii.gz",
+            "seg": "./train/seg0371.nii.gz"
+        },
+        {
+            "image": "./train/img0372.nii.gz",
+            "seg": "./train/seg0372.nii.gz"
+        },
+        {
+            "image": "./train/img0373.nii.gz",
+            "seg": "./train/seg0373.nii.gz"
+        },
+        {
+            "image": "./train/img0375.nii.gz",
+            "seg": "./train/seg0375.nii.gz"
+        },
+        {
+            "image": "./train/img0376.nii.gz",
+            "seg": "./train/seg0376.nii.gz"
+        },
+        {
+            "image": "./train/img0377.nii.gz",
+            "seg": "./train/seg0377.nii.gz"
+        },
+        {
+            "image": "./train/img0379.nii.gz",
+            "seg": "./train/seg0379.nii.gz"
+        },
+        {
+            "image": "./train/img0381.nii.gz",
+            "seg": "./train/seg0381.nii.gz"
+        },
+        {
+            "image": "./train/img0382.nii.gz",
+            "seg": "./train/seg0382.nii.gz"
+        },
+        {
+            "image": "./train/img0384.nii.gz",
+            "seg": "./train/seg0384.nii.gz"
+        },
+        {
+            "image": "./train/img0385.nii.gz",
+            "seg": "./train/seg0385.nii.gz"
+        },
+        {
+            "image": "./train/img0386.nii.gz",
+            "seg": "./train/seg0386.nii.gz"
+        },
+        {
+            "image": "./train/img0387.nii.gz",
+            "seg": "./train/seg0387.nii.gz"
+        },
+        {
+            "image": "./train/img0388.nii.gz",
+            "seg": "./train/seg0388.nii.gz"
+        },
+        {
+            "image": "./train/img0389.nii.gz",
+            "seg": "./train/seg0389.nii.gz"
+        },
+        {
+            "image": "./train/img0390.nii.gz",
+            "seg": "./train/seg0390.nii.gz"
+        },
+        {
+            "image": "./train/img0391.nii.gz",
+            "seg": "./train/seg0391.nii.gz"
+        },
+        {
+            "image": "./train/img0392.nii.gz",
+            "seg": "./train/seg0392.nii.gz"
+        },
+        {
+            "image": "./train/img0393.nii.gz",
+            "seg": "./train/seg0393.nii.gz"
+        },
+        {
+            "image": "./train/img0395.nii.gz",
+            "seg": "./train/seg0395.nii.gz"
+        },
+        {
+            "image": "./train/img0397.nii.gz",
+            "seg": "./train/seg0397.nii.gz"
+        },
+        {
+            "image": "./train/img0400.nii.gz",
+            "seg": "./train/seg0400.nii.gz"
+        },
+        {
+            "image": "./train/img0401.nii.gz",
+            "seg": "./train/seg0401.nii.gz"
+        },
+        {
+            "image": "./train/img0404.nii.gz",
+            "seg": "./train/seg0404.nii.gz"
+        },
+        {
+            "image": "./train/img0406.nii.gz",
+            "seg": "./train/seg0406.nii.gz"
+        },
+        {
+            "image": "./train/img0408.nii.gz",
+            "seg": "./train/seg0408.nii.gz"
+        },
+        {
+            "image": "./train/img0410.nii.gz",
+            "seg": "./train/seg0410.nii.gz"
+        },
+        {
+            "image": "./train/img0412.nii.gz",
+            "seg": "./train/seg0412.nii.gz"
+        },
+        {
+            "image": "./train/img0413.nii.gz",
+            "seg": "./train/seg0413.nii.gz"
+        },
+        {
+            "image": "./train/img0414.nii.gz",
+            "seg": "./train/seg0414.nii.gz"
+        }
+    ],
+    "validation": [
+        {
+            "fixed": "./val/img0029.nii.gz",
+            "fixed_seg": "./val/seg0029.nii.gz",
+            "moving": "./val/img0256.nii.gz",
+            "moving_seg": "./val/seg0256.nii.gz"
+        },
+        {
+            "fixed": "./val/img0034.nii.gz",
+            "fixed_seg": "./val/seg0034.nii.gz",
+            "moving": "./val/img0274.nii.gz",
+            "moving_seg": "./val/seg0274.nii.gz"
+        },
+        {
+            "fixed": "./val/img0074.nii.gz",
+            "fixed_seg": "./val/seg0074.nii.gz",
+            "moving": "./val/img0286.nii.gz",
+            "moving_seg": "./val/seg0286.nii.gz"
+        },
+        {
+            "fixed": "./val/img0088.nii.gz",
+            "fixed_seg": "./val/seg0088.nii.gz",
+            "moving": "./val/img0291.nii.gz",
+            "moving_seg": "./val/seg0291.nii.gz"
+        },
+        {
+            "fixed": "./val/img0109.nii.gz",
+            "fixed_seg": "./val/seg0109.nii.gz",
+            "moving": "./val/img0311.nii.gz",
+            "moving_seg": "./val/seg0311.nii.gz"
+        },
+        {
+            "fixed": "./val/img0118.nii.gz",
+            "fixed_seg": "./val/seg0118.nii.gz",
+            "moving": "./val/img0312.nii.gz",
+            "moving_seg": "./val/seg0312.nii.gz"
+        },
+        {
+            "fixed": "./val/img0127.nii.gz",
+            "fixed_seg": "./val/seg0127.nii.gz",
+            "moving": "./val/img0315.nii.gz",
+            "moving_seg": "./val/seg0315.nii.gz"
+        },
+        {
+            "fixed": "./val/img0138.nii.gz",
+            "fixed_seg": "./val/seg0138.nii.gz",
+            "moving": "./val/img0336.nii.gz",
+            "moving_seg": "./val/seg0336.nii.gz"
+        },
+        {
+            "fixed": "./val/img0139.nii.gz",
+            "fixed_seg": "./val/seg0139.nii.gz",
+            "moving": "./val/img0338.nii.gz",
+            "moving_seg": "./val/seg0338.nii.gz"
+        },
+        {
+            "fixed": "./val/img0162.nii.gz",
+            "fixed_seg": "./val/seg0162.nii.gz",
+            "moving": "./val/img0341.nii.gz",
+            "moving_seg": "./val/seg0341.nii.gz"
+        },
+        {
+            "fixed": "./val/img0167.nii.gz",
+            "fixed_seg": "./val/seg0167.nii.gz",
+            "moving": "./val/img0363.nii.gz",
+            "moving_seg": "./val/seg0363.nii.gz"
+        },
+        {
+            "fixed": "./val/img0203.nii.gz",
+            "fixed_seg": "./val/seg0203.nii.gz",
+            "moving": "./val/img0383.nii.gz",
+            "moving_seg": "./val/seg0383.nii.gz"
+        },
+        {
+            "fixed": "./val/img0206.nii.gz",
+            "fixed_seg": "./val/seg0206.nii.gz",
+            "moving": "./val/img0398.nii.gz",
+            "moving_seg": "./val/seg0398.nii.gz"
+        },
+        {
+            "fixed": "./val/img0235.nii.gz",
+            "fixed_seg": "./val/seg0235.nii.gz",
+            "moving": "./val/img0407.nii.gz",
+            "moving_seg": "./val/seg0407.nii.gz"
+        },
+        {
+            "fixed": "./val/img0237.nii.gz",
+            "fixed_seg": "./val/seg0237.nii.gz",
+            "moving": "./val/img0409.nii.gz",
+            "moving_seg": "./val/seg0409.nii.gz"
+        },
+        {
+            "fixed": "./val/img0409.nii.gz",
+            "fixed_seg": "./val/seg0409.nii.gz",
+            "moving": "./val/img0029.nii.gz",
+            "moving_seg": "./val/seg0029.nii.gz"
+        },
+        {
+            "fixed": "./val/img0407.nii.gz",
+            "fixed_seg": "./val/seg0407.nii.gz",
+            "moving": "./val/img0034.nii.gz",
+            "moving_seg": "./val/seg0034.nii.gz"
+        },
+        {
+            "fixed": "./val/img0398.nii.gz",
+            "fixed_seg": "./val/seg0398.nii.gz",
+            "moving": "./val/img0074.nii.gz",
+            "moving_seg": "./val/seg0074.nii.gz"
+        },
+        {
+            "fixed": "./val/img0383.nii.gz",
+            "fixed_seg": "./val/seg0383.nii.gz",
+            "moving": "./val/img0088.nii.gz",
+            "moving_seg": "./val/seg0088.nii.gz"
+        },
+        {
+            "fixed": "./val/img0363.nii.gz",
+            "fixed_seg": "./val/seg0363.nii.gz",
+            "moving": "./val/img0109.nii.gz",
+            "moving_seg": "./val/seg0109.nii.gz"
+        },
+        {
+            "fixed": "./val/img0341.nii.gz",
+            "fixed_seg": "./val/seg0341.nii.gz",
+            "moving": "./val/img0118.nii.gz",
+            "moving_seg": "./val/seg0118.nii.gz"
+        },
+        {
+            "fixed": "./val/img0338.nii.gz",
+            "fixed_seg": "./val/seg0338.nii.gz",
+            "moving": "./val/img0127.nii.gz",
+            "moving_seg": "./val/seg0127.nii.gz"
+        },
+        {
+            "fixed": "./val/img0336.nii.gz",
+            "fixed_seg": "./val/seg0336.nii.gz",
+            "moving": "./val/img0138.nii.gz",
+            "moving_seg": "./val/seg0138.nii.gz"
+        },
+        {
+            "fixed": "./val/img0315.nii.gz",
+            "fixed_seg": "./val/seg0315.nii.gz",
+            "moving": "./val/img0139.nii.gz",
+            "moving_seg": "./val/seg0139.nii.gz"
+        },
+        {
+            "fixed": "./val/img0312.nii.gz",
+            "fixed_seg": "./val/seg0312.nii.gz",
+            "moving": "./val/img0162.nii.gz",
+            "moving_seg": "./val/seg0162.nii.gz"
+        },
+        {
+            "fixed": "./val/img0311.nii.gz",
+            "fixed_seg": "./val/seg0311.nii.gz",
+            "moving": "./val/img0167.nii.gz",
+            "moving_seg": "./val/seg0167.nii.gz"
+        },
+        {
+            "fixed": "./val/img0291.nii.gz",
+            "fixed_seg": "./val/seg0291.nii.gz",
+            "moving": "./val/img0203.nii.gz",
+            "moving_seg": "./val/seg0203.nii.gz"
+        },
+        {
+            "fixed": "./val/img0286.nii.gz",
+            "fixed_seg": "./val/seg0286.nii.gz",
+            "moving": "./val/img0206.nii.gz",
+            "moving_seg": "./val/seg0206.nii.gz"
+        },
+        {
+            "fixed": "./val/img0274.nii.gz",
+            "fixed_seg": "./val/seg0274.nii.gz",
+            "moving": "./val/img0235.nii.gz",
+            "moving_seg": "./val/seg0235.nii.gz"
+        },
+        {
+            "fixed": "./val/img0256.nii.gz",
+            "fixed_seg": "./val/seg0256.nii.gz",
+            "moving": "./val/img0237.nii.gz",
+            "moving_seg": "./val/seg0237.nii.gz"
+        }
+    ],
+    "test_200": [
+        {
+            "fixed": "./test/img0004.nii.gz",
+            "fixed_seg": "./test/seg0004.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        },
+        {
+            "fixed": "./test/img0013.nii.gz",
+            "fixed_seg": "./test/seg0013.nii.gz",
+            "moving": "./test/img0120.nii.gz",
+            "moving_seg": "./test/seg0120.nii.gz"
+        },
+        {
+            "fixed": "./test/img0013.nii.gz",
+            "fixed_seg": "./test/seg0013.nii.gz",
+            "moving": "./test/img0215.nii.gz",
+            "moving_seg": "./test/seg0215.nii.gz"
+        },
+        {
+            "fixed": "./test/img0014.nii.gz",
+            "fixed_seg": "./test/seg0014.nii.gz",
+            "moving": "./test/img0023.nii.gz",
+            "moving_seg": "./test/seg0023.nii.gz"
+        },
+        {
+            "fixed": "./test/img0014.nii.gz",
+            "fixed_seg": "./test/seg0014.nii.gz",
+            "moving": "./test/img0115.nii.gz",
+            "moving_seg": "./test/seg0115.nii.gz"
+        },
+        {
+            "fixed": "./test/img0014.nii.gz",
+            "fixed_seg": "./test/seg0014.nii.gz",
+            "moving": "./test/img0126.nii.gz",
+            "moving_seg": "./test/seg0126.nii.gz"
+        },
+        {
+            "fixed": "./test/img0014.nii.gz",
+            "fixed_seg": "./test/seg0014.nii.gz",
+            "moving": "./test/img0149.nii.gz",
+            "moving_seg": "./test/seg0149.nii.gz"
+        },
+        {
+            "fixed": "./test/img0017.nii.gz",
+            "fixed_seg": "./test/seg0017.nii.gz",
+            "moving": "./test/img0024.nii.gz",
+            "moving_seg": "./test/seg0024.nii.gz"
+        },
+        {
+            "fixed": "./test/img0017.nii.gz",
+            "fixed_seg": "./test/seg0017.nii.gz",
+            "moving": "./test/img0195.nii.gz",
+            "moving_seg": "./test/seg0195.nii.gz"
+        },
+        {
+            "fixed": "./test/img0023.nii.gz",
+            "fixed_seg": "./test/seg0023.nii.gz",
+            "moving": "./test/img0013.nii.gz",
+            "moving_seg": "./test/seg0013.nii.gz"
+        },
+        {
+            "fixed": "./test/img0023.nii.gz",
+            "fixed_seg": "./test/seg0023.nii.gz",
+            "moving": "./test/img0259.nii.gz",
+            "moving_seg": "./test/seg0259.nii.gz"
+        },
+        {
+            "fixed": "./test/img0024.nii.gz",
+            "fixed_seg": "./test/seg0024.nii.gz",
+            "moving": "./test/img0053.nii.gz",
+            "moving_seg": "./test/seg0053.nii.gz"
+        },
+        {
+            "fixed": "./test/img0024.nii.gz",
+            "fixed_seg": "./test/seg0024.nii.gz",
+            "moving": "./test/img0115.nii.gz",
+            "moving_seg": "./test/seg0115.nii.gz"
+        },
+        {
+            "fixed": "./test/img0036.nii.gz",
+            "fixed_seg": "./test/seg0036.nii.gz",
+            "moving": "./test/img0072.nii.gz",
+            "moving_seg": "./test/seg0072.nii.gz"
+        },
+        {
+            "fixed": "./test/img0037.nii.gz",
+            "fixed_seg": "./test/seg0037.nii.gz",
+            "moving": "./test/img0394.nii.gz",
+            "moving_seg": "./test/seg0394.nii.gz"
+        },
+        {
+            "fixed": "./test/img0037.nii.gz",
+            "fixed_seg": "./test/seg0037.nii.gz",
+            "moving": "./test/img0396.nii.gz",
+            "moving_seg": "./test/seg0396.nii.gz"
+        },
+        {
+            "fixed": "./test/img0041.nii.gz",
+            "fixed_seg": "./test/seg0041.nii.gz",
+            "moving": "./test/img0275.nii.gz",
+            "moving_seg": "./test/seg0275.nii.gz"
+        },
+        {
+            "fixed": "./test/img0045.nii.gz",
+            "fixed_seg": "./test/seg0045.nii.gz",
+            "moving": "./test/img0048.nii.gz",
+            "moving_seg": "./test/seg0048.nii.gz"
+        },
+        {
+            "fixed": "./test/img0045.nii.gz",
+            "fixed_seg": "./test/seg0045.nii.gz",
+            "moving": "./test/img0099.nii.gz",
+            "moving_seg": "./test/seg0099.nii.gz"
+        },
+        {
+            "fixed": "./test/img0048.nii.gz",
+            "fixed_seg": "./test/seg0048.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0048.nii.gz",
+            "fixed_seg": "./test/seg0048.nii.gz",
+            "moving": "./test/img0288.nii.gz",
+            "moving_seg": "./test/seg0288.nii.gz"
+        },
+        {
+            "fixed": "./test/img0048.nii.gz",
+            "fixed_seg": "./test/seg0048.nii.gz",
+            "moving": "./test/img0368.nii.gz",
+            "moving_seg": "./test/seg0368.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0326.nii.gz",
+            "moving_seg": "./test/seg0326.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0328.nii.gz",
+            "moving_seg": "./test/seg0328.nii.gz"
+        },
+        {
+            "fixed": "./test/img0052.nii.gz",
+            "fixed_seg": "./test/seg0052.nii.gz",
+            "moving": "./test/img0064.nii.gz",
+            "moving_seg": "./test/seg0064.nii.gz"
+        },
+        {
+            "fixed": "./test/img0052.nii.gz",
+            "fixed_seg": "./test/seg0052.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0053.nii.gz",
+            "fixed_seg": "./test/seg0053.nii.gz",
+            "moving": "./test/img0151.nii.gz",
+            "moving_seg": "./test/seg0151.nii.gz"
+        },
+        {
+            "fixed": "./test/img0053.nii.gz",
+            "fixed_seg": "./test/seg0053.nii.gz",
+            "moving": "./test/img0190.nii.gz",
+            "moving_seg": "./test/seg0190.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0052.nii.gz",
+            "moving_seg": "./test/seg0052.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0149.nii.gz",
+            "moving_seg": "./test/seg0149.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0175.nii.gz",
+            "moving_seg": "./test/seg0175.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0064.nii.gz",
+            "fixed_seg": "./test/seg0064.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0064.nii.gz",
+            "fixed_seg": "./test/seg0064.nii.gz",
+            "moving": "./test/img0017.nii.gz",
+            "moving_seg": "./test/seg0017.nii.gz"
+        },
+        {
+            "fixed": "./test/img0064.nii.gz",
+            "fixed_seg": "./test/seg0064.nii.gz",
+            "moving": "./test/img0136.nii.gz",
+            "moving_seg": "./test/seg0136.nii.gz"
+        },
+        {
+            "fixed": "./test/img0072.nii.gz",
+            "fixed_seg": "./test/seg0072.nii.gz",
+            "moving": "./test/img0037.nii.gz",
+            "moving_seg": "./test/seg0037.nii.gz"
+        },
+        {
+            "fixed": "./test/img0072.nii.gz",
+            "fixed_seg": "./test/seg0072.nii.gz",
+            "moving": "./test/img0052.nii.gz",
+            "moving_seg": "./test/seg0052.nii.gz"
+        },
+        {
+            "fixed": "./test/img0080.nii.gz",
+            "fixed_seg": "./test/seg0080.nii.gz",
+            "moving": "./test/img0048.nii.gz",
+            "moving_seg": "./test/seg0048.nii.gz"
+        },
+        {
+            "fixed": "./test/img0080.nii.gz",
+            "fixed_seg": "./test/seg0080.nii.gz",
+            "moving": "./test/img0194.nii.gz",
+            "moving_seg": "./test/seg0194.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0004.nii.gz",
+            "moving_seg": "./test/seg0004.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0041.nii.gz",
+            "moving_seg": "./test/seg0041.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0111.nii.gz",
+            "moving_seg": "./test/seg0111.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0357.nii.gz",
+            "moving_seg": "./test/seg0357.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0041.nii.gz",
+            "moving_seg": "./test/seg0041.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0045.nii.gz",
+            "moving_seg": "./test/seg0045.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0108.nii.gz",
+            "moving_seg": "./test/seg0108.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0360.nii.gz",
+            "moving_seg": "./test/seg0360.nii.gz"
+        },
+        {
+            "fixed": "./test/img0099.nii.gz",
+            "fixed_seg": "./test/seg0099.nii.gz",
+            "moving": "./test/img0367.nii.gz",
+            "moving_seg": "./test/seg0367.nii.gz"
+        },
+        {
+            "fixed": "./test/img0102.nii.gz",
+            "fixed_seg": "./test/seg0102.nii.gz",
+            "moving": "./test/img0288.nii.gz",
+            "moving_seg": "./test/seg0288.nii.gz"
+        },
+        {
+            "fixed": "./test/img0102.nii.gz",
+            "fixed_seg": "./test/seg0102.nii.gz",
+            "moving": "./test/img0296.nii.gz",
+            "moving_seg": "./test/seg0296.nii.gz"
+        },
+        {
+            "fixed": "./test/img0102.nii.gz",
+            "fixed_seg": "./test/seg0102.nii.gz",
+            "moving": "./test/img0309.nii.gz",
+            "moving_seg": "./test/seg0309.nii.gz"
+        },
+        {
+            "fixed": "./test/img0108.nii.gz",
+            "fixed_seg": "./test/seg0108.nii.gz",
+            "moving": "./test/img0194.nii.gz",
+            "moving_seg": "./test/seg0194.nii.gz"
+        },
+        {
+            "fixed": "./test/img0108.nii.gz",
+            "fixed_seg": "./test/seg0108.nii.gz",
+            "moving": "./test/img0215.nii.gz",
+            "moving_seg": "./test/seg0215.nii.gz"
+        },
+        {
+            "fixed": "./test/img0108.nii.gz",
+            "fixed_seg": "./test/seg0108.nii.gz",
+            "moving": "./test/img0280.nii.gz",
+            "moving_seg": "./test/seg0280.nii.gz"
+        },
+        {
+            "fixed": "./test/img0108.nii.gz",
+            "fixed_seg": "./test/seg0108.nii.gz",
+            "moving": "./test/img0405.nii.gz",
+            "moving_seg": "./test/seg0405.nii.gz"
+        },
+        {
+            "fixed": "./test/img0111.nii.gz",
+            "fixed_seg": "./test/seg0111.nii.gz",
+            "moving": "./test/img0058.nii.gz",
+            "moving_seg": "./test/seg0058.nii.gz"
+        },
+        {
+            "fixed": "./test/img0111.nii.gz",
+            "fixed_seg": "./test/seg0111.nii.gz",
+            "moving": "./test/img0303.nii.gz",
+            "moving_seg": "./test/seg0303.nii.gz"
+        },
+        {
+            "fixed": "./test/img0111.nii.gz",
+            "fixed_seg": "./test/seg0111.nii.gz",
+            "moving": "./test/img0333.nii.gz",
+            "moving_seg": "./test/seg0333.nii.gz"
+        },
+        {
+            "fixed": "./test/img0112.nii.gz",
+            "fixed_seg": "./test/seg0112.nii.gz",
+            "moving": "./test/img0233.nii.gz",
+            "moving_seg": "./test/seg0233.nii.gz"
+        },
+        {
+            "fixed": "./test/img0112.nii.gz",
+            "fixed_seg": "./test/seg0112.nii.gz",
+            "moving": "./test/img0411.nii.gz",
+            "moving_seg": "./test/seg0411.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0017.nii.gz",
+            "moving_seg": "./test/seg0017.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0099.nii.gz",
+            "moving_seg": "./test/seg0099.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0120.nii.gz",
+            "moving_seg": "./test/seg0120.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0194.nii.gz",
+            "moving_seg": "./test/seg0194.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0405.nii.gz",
+            "moving_seg": "./test/seg0405.nii.gz"
+        },
+        {
+            "fixed": "./test/img0117.nii.gz",
+            "fixed_seg": "./test/seg0117.nii.gz",
+            "moving": "./test/img0036.nii.gz",
+            "moving_seg": "./test/seg0036.nii.gz"
+        },
+        {
+            "fixed": "./test/img0117.nii.gz",
+            "fixed_seg": "./test/seg0117.nii.gz",
+            "moving": "./test/img0280.nii.gz",
+            "moving_seg": "./test/seg0280.nii.gz"
+        },
+        {
+            "fixed": "./test/img0117.nii.gz",
+            "fixed_seg": "./test/seg0117.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0120.nii.gz",
+            "fixed_seg": "./test/seg0120.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0120.nii.gz",
+            "fixed_seg": "./test/seg0120.nii.gz",
+            "moving": "./test/img0309.nii.gz",
+            "moving_seg": "./test/seg0309.nii.gz"
+        },
+        {
+            "fixed": "./test/img0126.nii.gz",
+            "fixed_seg": "./test/seg0126.nii.gz",
+            "moving": "./test/img0023.nii.gz",
+            "moving_seg": "./test/seg0023.nii.gz"
+        },
+        {
+            "fixed": "./test/img0126.nii.gz",
+            "fixed_seg": "./test/seg0126.nii.gz",
+            "moving": "./test/img0112.nii.gz",
+            "moving_seg": "./test/seg0112.nii.gz"
+        },
+        {
+            "fixed": "./test/img0126.nii.gz",
+            "fixed_seg": "./test/seg0126.nii.gz",
+            "moving": "./test/img0296.nii.gz",
+            "moving_seg": "./test/seg0296.nii.gz"
+        },
+        {
+            "fixed": "./test/img0136.nii.gz",
+            "fixed_seg": "./test/seg0136.nii.gz",
+            "moving": "./test/img0347.nii.gz",
+            "moving_seg": "./test/seg0347.nii.gz"
+        },
+        {
+            "fixed": "./test/img0137.nii.gz",
+            "fixed_seg": "./test/seg0137.nii.gz",
+            "moving": "./test/img0017.nii.gz",
+            "moving_seg": "./test/seg0017.nii.gz"
+        },
+        {
+            "fixed": "./test/img0137.nii.gz",
+            "fixed_seg": "./test/seg0137.nii.gz",
+            "moving": "./test/img0357.nii.gz",
+            "moving_seg": "./test/seg0357.nii.gz"
+        },
+        {
+            "fixed": "./test/img0137.nii.gz",
+            "fixed_seg": "./test/seg0137.nii.gz",
+            "moving": "./test/img0403.nii.gz",
+            "moving_seg": "./test/seg0403.nii.gz"
+        },
+        {
+            "fixed": "./test/img0141.nii.gz",
+            "fixed_seg": "./test/seg0141.nii.gz",
+            "moving": "./test/img0004.nii.gz",
+            "moving_seg": "./test/seg0004.nii.gz"
+        },
+        {
+            "fixed": "./test/img0143.nii.gz",
+            "fixed_seg": "./test/seg0143.nii.gz",
+            "moving": "./test/img0117.nii.gz",
+            "moving_seg": "./test/seg0117.nii.gz"
+        },
+        {
+            "fixed": "./test/img0143.nii.gz",
+            "fixed_seg": "./test/seg0143.nii.gz",
+            "moving": "./test/img0186.nii.gz",
+            "moving_seg": "./test/seg0186.nii.gz"
+        },
+        {
+            "fixed": "./test/img0143.nii.gz",
+            "fixed_seg": "./test/seg0143.nii.gz",
+            "moving": "./test/img0280.nii.gz",
+            "moving_seg": "./test/seg0280.nii.gz"
+        },
+        {
+            "fixed": "./test/img0149.nii.gz",
+            "fixed_seg": "./test/seg0149.nii.gz",
+            "moving": "./test/img0182.nii.gz",
+            "moving_seg": "./test/seg0182.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0053.nii.gz",
+            "moving_seg": "./test/seg0053.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0080.nii.gz",
+            "moving_seg": "./test/seg0080.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0099.nii.gz",
+            "moving_seg": "./test/seg0099.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0396.nii.gz",
+            "moving_seg": "./test/seg0396.nii.gz"
+        },
+        {
+            "fixed": "./test/img0173.nii.gz",
+            "fixed_seg": "./test/seg0173.nii.gz",
+            "moving": "./test/img0136.nii.gz",
+            "moving_seg": "./test/seg0136.nii.gz"
+        },
+        {
+            "fixed": "./test/img0175.nii.gz",
+            "fixed_seg": "./test/seg0175.nii.gz",
+            "moving": "./test/img0053.nii.gz",
+            "moving_seg": "./test/seg0053.nii.gz"
+        },
+        {
+            "fixed": "./test/img0175.nii.gz",
+            "fixed_seg": "./test/seg0175.nii.gz",
+            "moving": "./test/img0339.nii.gz",
+            "moving_seg": "./test/seg0339.nii.gz"
+        },
+        {
+            "fixed": "./test/img0175.nii.gz",
+            "fixed_seg": "./test/seg0175.nii.gz",
+            "moving": "./test/img0402.nii.gz",
+            "moving_seg": "./test/seg0402.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0111.nii.gz",
+            "moving_seg": "./test/seg0111.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0126.nii.gz",
+            "moving_seg": "./test/seg0126.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0187.nii.gz",
+            "moving_seg": "./test/seg0187.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0182.nii.gz",
+            "fixed_seg": "./test/seg0182.nii.gz",
+            "moving": "./test/img0115.nii.gz",
+            "moving_seg": "./test/seg0115.nii.gz"
+        },
+        {
+            "fixed": "./test/img0182.nii.gz",
+            "fixed_seg": "./test/seg0182.nii.gz",
+            "moving": "./test/img0358.nii.gz",
+            "moving_seg": "./test/seg0358.nii.gz"
+        },
+        {
+            "fixed": "./test/img0184.nii.gz",
+            "fixed_seg": "./test/seg0184.nii.gz",
+            "moving": "./test/img0072.nii.gz",
+            "moving_seg": "./test/seg0072.nii.gz"
+        },
+        {
+            "fixed": "./test/img0184.nii.gz",
+            "fixed_seg": "./test/seg0184.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0184.nii.gz",
+            "fixed_seg": "./test/seg0184.nii.gz",
+            "moving": "./test/img0182.nii.gz",
+            "moving_seg": "./test/seg0182.nii.gz"
+        },
+        {
+            "fixed": "./test/img0184.nii.gz",
+            "fixed_seg": "./test/seg0184.nii.gz",
+            "moving": "./test/img0374.nii.gz",
+            "moving_seg": "./test/seg0374.nii.gz"
+        },
+        {
+            "fixed": "./test/img0186.nii.gz",
+            "fixed_seg": "./test/seg0186.nii.gz",
+            "moving": "./test/img0045.nii.gz",
+            "moving_seg": "./test/seg0045.nii.gz"
+        },
+        {
+            "fixed": "./test/img0186.nii.gz",
+            "fixed_seg": "./test/seg0186.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0186.nii.gz",
+            "fixed_seg": "./test/seg0186.nii.gz",
+            "moving": "./test/img0403.nii.gz",
+            "moving_seg": "./test/seg0403.nii.gz"
+        },
+        {
+            "fixed": "./test/img0187.nii.gz",
+            "fixed_seg": "./test/seg0187.nii.gz",
+            "moving": "./test/img0117.nii.gz",
+            "moving_seg": "./test/seg0117.nii.gz"
+        },
+        {
+            "fixed": "./test/img0187.nii.gz",
+            "fixed_seg": "./test/seg0187.nii.gz",
+            "moving": "./test/img0403.nii.gz",
+            "moving_seg": "./test/seg0403.nii.gz"
+        },
+        {
+            "fixed": "./test/img0187.nii.gz",
+            "fixed_seg": "./test/seg0187.nii.gz",
+            "moving": "./test/img0411.nii.gz",
+            "moving_seg": "./test/seg0411.nii.gz"
+        },
+        {
+            "fixed": "./test/img0190.nii.gz",
+            "fixed_seg": "./test/seg0190.nii.gz",
+            "moving": "./test/img0112.nii.gz",
+            "moving_seg": "./test/seg0112.nii.gz"
+        },
+        {
+            "fixed": "./test/img0190.nii.gz",
+            "fixed_seg": "./test/seg0190.nii.gz",
+            "moving": "./test/img0380.nii.gz",
+            "moving_seg": "./test/seg0380.nii.gz"
+        },
+        {
+            "fixed": "./test/img0194.nii.gz",
+            "fixed_seg": "./test/seg0194.nii.gz",
+            "moving": "./test/img0184.nii.gz",
+            "moving_seg": "./test/seg0184.nii.gz"
+        },
+        {
+            "fixed": "./test/img0194.nii.gz",
+            "fixed_seg": "./test/seg0194.nii.gz",
+            "moving": "./test/img0357.nii.gz",
+            "moving_seg": "./test/seg0357.nii.gz"
+        },
+        {
+            "fixed": "./test/img0195.nii.gz",
+            "fixed_seg": "./test/seg0195.nii.gz",
+            "moving": "./test/img0041.nii.gz",
+            "moving_seg": "./test/seg0041.nii.gz"
+        },
+        {
+            "fixed": "./test/img0195.nii.gz",
+            "fixed_seg": "./test/seg0195.nii.gz",
+            "moving": "./test/img0141.nii.gz",
+            "moving_seg": "./test/seg0141.nii.gz"
+        },
+        {
+            "fixed": "./test/img0195.nii.gz",
+            "fixed_seg": "./test/seg0195.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        },
+        {
+            "fixed": "./test/img0215.nii.gz",
+            "fixed_seg": "./test/seg0215.nii.gz",
+            "moving": "./test/img0141.nii.gz",
+            "moving_seg": "./test/seg0141.nii.gz"
+        },
+        {
+            "fixed": "./test/img0215.nii.gz",
+            "fixed_seg": "./test/seg0215.nii.gz",
+            "moving": "./test/img0326.nii.gz",
+            "moving_seg": "./test/seg0326.nii.gz"
+        },
+        {
+            "fixed": "./test/img0217.nii.gz",
+            "fixed_seg": "./test/seg0217.nii.gz",
+            "moving": "./test/img0230.nii.gz",
+            "moving_seg": "./test/seg0230.nii.gz"
+        },
+        {
+            "fixed": "./test/img0230.nii.gz",
+            "fixed_seg": "./test/seg0230.nii.gz",
+            "moving": "./test/img0112.nii.gz",
+            "moving_seg": "./test/seg0112.nii.gz"
+        },
+        {
+            "fixed": "./test/img0230.nii.gz",
+            "fixed_seg": "./test/seg0230.nii.gz",
+            "moving": "./test/img0303.nii.gz",
+            "moving_seg": "./test/seg0303.nii.gz"
+        },
+        {
+            "fixed": "./test/img0230.nii.gz",
+            "fixed_seg": "./test/seg0230.nii.gz",
+            "moving": "./test/img0374.nii.gz",
+            "moving_seg": "./test/seg0374.nii.gz"
+        },
+        {
+            "fixed": "./test/img0233.nii.gz",
+            "fixed_seg": "./test/seg0233.nii.gz",
+            "moving": "./test/img0080.nii.gz",
+            "moving_seg": "./test/seg0080.nii.gz"
+        },
+        {
+            "fixed": "./test/img0233.nii.gz",
+            "fixed_seg": "./test/seg0233.nii.gz",
+            "moving": "./test/img0303.nii.gz",
+            "moving_seg": "./test/seg0303.nii.gz"
+        },
+        {
+            "fixed": "./test/img0233.nii.gz",
+            "fixed_seg": "./test/seg0233.nii.gz",
+            "moving": "./test/img0358.nii.gz",
+            "moving_seg": "./test/seg0358.nii.gz"
+        },
+        {
+            "fixed": "./test/img0259.nii.gz",
+            "fixed_seg": "./test/seg0259.nii.gz",
+            "moving": "./test/img0036.nii.gz",
+            "moving_seg": "./test/seg0036.nii.gz"
+        },
+        {
+            "fixed": "./test/img0259.nii.gz",
+            "fixed_seg": "./test/seg0259.nii.gz",
+            "moving": "./test/img0141.nii.gz",
+            "moving_seg": "./test/seg0141.nii.gz"
+        },
+        {
+            "fixed": "./test/img0259.nii.gz",
+            "fixed_seg": "./test/seg0259.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0259.nii.gz",
+            "fixed_seg": "./test/seg0259.nii.gz",
+            "moving": "./test/img0275.nii.gz",
+            "moving_seg": "./test/seg0275.nii.gz"
+        },
+        {
+            "fixed": "./test/img0275.nii.gz",
+            "fixed_seg": "./test/seg0275.nii.gz",
+            "moving": "./test/img0084.nii.gz",
+            "moving_seg": "./test/seg0084.nii.gz"
+        },
+        {
+            "fixed": "./test/img0275.nii.gz",
+            "fixed_seg": "./test/seg0275.nii.gz",
+            "moving": "./test/img0230.nii.gz",
+            "moving_seg": "./test/seg0230.nii.gz"
+        },
+        {
+            "fixed": "./test/img0275.nii.gz",
+            "fixed_seg": "./test/seg0275.nii.gz",
+            "moving": "./test/img0402.nii.gz",
+            "moving_seg": "./test/seg0402.nii.gz"
+        },
+        {
+            "fixed": "./test/img0280.nii.gz",
+            "fixed_seg": "./test/seg0280.nii.gz",
+            "moving": "./test/img0175.nii.gz",
+            "moving_seg": "./test/seg0175.nii.gz"
+        },
+        {
+            "fixed": "./test/img0280.nii.gz",
+            "fixed_seg": "./test/seg0280.nii.gz",
+            "moving": "./test/img0310.nii.gz",
+            "moving_seg": "./test/seg0310.nii.gz"
+        },
+        {
+            "fixed": "./test/img0283.nii.gz",
+            "fixed_seg": "./test/seg0283.nii.gz",
+            "moving": "./test/img0080.nii.gz",
+            "moving_seg": "./test/seg0080.nii.gz"
+        },
+        {
+            "fixed": "./test/img0283.nii.gz",
+            "fixed_seg": "./test/seg0283.nii.gz",
+            "moving": "./test/img0149.nii.gz",
+            "moving_seg": "./test/seg0149.nii.gz"
+        },
+        {
+            "fixed": "./test/img0283.nii.gz",
+            "fixed_seg": "./test/seg0283.nii.gz",
+            "moving": "./test/img0367.nii.gz",
+            "moving_seg": "./test/seg0367.nii.gz"
+        },
+        {
+            "fixed": "./test/img0283.nii.gz",
+            "fixed_seg": "./test/seg0283.nii.gz",
+            "moving": "./test/img0368.nii.gz",
+            "moving_seg": "./test/seg0368.nii.gz"
+        },
+        {
+            "fixed": "./test/img0288.nii.gz",
+            "fixed_seg": "./test/seg0288.nii.gz",
+            "moving": "./test/img0024.nii.gz",
+            "moving_seg": "./test/seg0024.nii.gz"
+        },
+        {
+            "fixed": "./test/img0288.nii.gz",
+            "fixed_seg": "./test/seg0288.nii.gz",
+            "moving": "./test/img0137.nii.gz",
+            "moving_seg": "./test/seg0137.nii.gz"
+        },
+        {
+            "fixed": "./test/img0296.nii.gz",
+            "fixed_seg": "./test/seg0296.nii.gz",
+            "moving": "./test/img0195.nii.gz",
+            "moving_seg": "./test/seg0195.nii.gz"
+        },
+        {
+            "fixed": "./test/img0296.nii.gz",
+            "fixed_seg": "./test/seg0296.nii.gz",
+            "moving": "./test/img0317.nii.gz",
+            "moving_seg": "./test/seg0317.nii.gz"
+        },
+        {
+            "fixed": "./test/img0302.nii.gz",
+            "fixed_seg": "./test/seg0302.nii.gz",
+            "moving": "./test/img0317.nii.gz",
+            "moving_seg": "./test/seg0317.nii.gz"
+        },
+        {
+            "fixed": "./test/img0303.nii.gz",
+            "fixed_seg": "./test/seg0303.nii.gz",
+            "moving": "./test/img0141.nii.gz",
+            "moving_seg": "./test/seg0141.nii.gz"
+        },
+        {
+            "fixed": "./test/img0303.nii.gz",
+            "fixed_seg": "./test/seg0303.nii.gz",
+            "moving": "./test/img0328.nii.gz",
+            "moving_seg": "./test/seg0328.nii.gz"
+        },
+        {
+            "fixed": "./test/img0309.nii.gz",
+            "fixed_seg": "./test/seg0309.nii.gz",
+            "moving": "./test/img0072.nii.gz",
+            "moving_seg": "./test/seg0072.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0102.nii.gz",
+            "moving_seg": "./test/seg0102.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0399.nii.gz",
+            "moving_seg": "./test/seg0399.nii.gz"
+        },
+        {
+            "fixed": "./test/img0317.nii.gz",
+            "fixed_seg": "./test/seg0317.nii.gz",
+            "moving": "./test/img0136.nii.gz",
+            "moving_seg": "./test/seg0136.nii.gz"
+        },
+        {
+            "fixed": "./test/img0317.nii.gz",
+            "fixed_seg": "./test/seg0317.nii.gz",
+            "moving": "./test/img0182.nii.gz",
+            "moving_seg": "./test/seg0182.nii.gz"
+        },
+        {
+            "fixed": "./test/img0317.nii.gz",
+            "fixed_seg": "./test/seg0317.nii.gz",
+            "moving": "./test/img0309.nii.gz",
+            "moving_seg": "./test/seg0309.nii.gz"
+        },
+        {
+            "fixed": "./test/img0322.nii.gz",
+            "fixed_seg": "./test/seg0322.nii.gz",
+            "moving": "./test/img0013.nii.gz",
+            "moving_seg": "./test/seg0013.nii.gz"
+        },
+        {
+            "fixed": "./test/img0326.nii.gz",
+            "fixed_seg": "./test/seg0326.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0326.nii.gz",
+            "fixed_seg": "./test/seg0326.nii.gz",
+            "moving": "./test/img0120.nii.gz",
+            "moving_seg": "./test/seg0120.nii.gz"
+        },
+        {
+            "fixed": "./test/img0328.nii.gz",
+            "fixed_seg": "./test/seg0328.nii.gz",
+            "moving": "./test/img0143.nii.gz",
+            "moving_seg": "./test/seg0143.nii.gz"
+        },
+        {
+            "fixed": "./test/img0328.nii.gz",
+            "fixed_seg": "./test/seg0328.nii.gz",
+            "moving": "./test/img0302.nii.gz",
+            "moving_seg": "./test/seg0302.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0004.nii.gz",
+            "moving_seg": "./test/seg0004.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0115.nii.gz",
+            "moving_seg": "./test/seg0115.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0339.nii.gz",
+            "fixed_seg": "./test/seg0339.nii.gz",
+            "moving": "./test/img0052.nii.gz",
+            "moving_seg": "./test/seg0052.nii.gz"
+        },
+        {
+            "fixed": "./test/img0339.nii.gz",
+            "fixed_seg": "./test/seg0339.nii.gz",
+            "moving": "./test/img0190.nii.gz",
+            "moving_seg": "./test/seg0190.nii.gz"
+        },
+        {
+            "fixed": "./test/img0339.nii.gz",
+            "fixed_seg": "./test/seg0339.nii.gz",
+            "moving": "./test/img0374.nii.gz",
+            "moving_seg": "./test/seg0374.nii.gz"
+        },
+        {
+            "fixed": "./test/img0347.nii.gz",
+            "fixed_seg": "./test/seg0347.nii.gz",
+            "moving": "./test/img0045.nii.gz",
+            "moving_seg": "./test/seg0045.nii.gz"
+        },
+        {
+            "fixed": "./test/img0347.nii.gz",
+            "fixed_seg": "./test/seg0347.nii.gz",
+            "moving": "./test/img0136.nii.gz",
+            "moving_seg": "./test/seg0136.nii.gz"
+        },
+        {
+            "fixed": "./test/img0347.nii.gz",
+            "fixed_seg": "./test/seg0347.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0357.nii.gz",
+            "fixed_seg": "./test/seg0357.nii.gz",
+            "moving": "./test/img0036.nii.gz",
+            "moving_seg": "./test/seg0036.nii.gz"
+        },
+        {
+            "fixed": "./test/img0357.nii.gz",
+            "fixed_seg": "./test/seg0357.nii.gz",
+            "moving": "./test/img0302.nii.gz",
+            "moving_seg": "./test/seg0302.nii.gz"
+        },
+        {
+            "fixed": "./test/img0358.nii.gz",
+            "fixed_seg": "./test/seg0358.nii.gz",
+            "moving": "./test/img0283.nii.gz",
+            "moving_seg": "./test/seg0283.nii.gz"
+        },
+        {
+            "fixed": "./test/img0358.nii.gz",
+            "fixed_seg": "./test/seg0358.nii.gz",
+            "moving": "./test/img0378.nii.gz",
+            "moving_seg": "./test/seg0378.nii.gz"
+        },
+        {
+            "fixed": "./test/img0360.nii.gz",
+            "fixed_seg": "./test/seg0360.nii.gz",
+            "moving": "./test/img0233.nii.gz",
+            "moving_seg": "./test/seg0233.nii.gz"
+        },
+        {
+            "fixed": "./test/img0367.nii.gz",
+            "fixed_seg": "./test/seg0367.nii.gz",
+            "moving": "./test/img0186.nii.gz",
+            "moving_seg": "./test/seg0186.nii.gz"
+        },
+        {
+            "fixed": "./test/img0367.nii.gz",
+            "fixed_seg": "./test/seg0367.nii.gz",
+            "moving": "./test/img0378.nii.gz",
+            "moving_seg": "./test/seg0378.nii.gz"
+        },
+        {
+            "fixed": "./test/img0368.nii.gz",
+            "fixed_seg": "./test/seg0368.nii.gz",
+            "moving": "./test/img0099.nii.gz",
+            "moving_seg": "./test/seg0099.nii.gz"
+        },
+        {
+            "fixed": "./test/img0368.nii.gz",
+            "fixed_seg": "./test/seg0368.nii.gz",
+            "moving": "./test/img0190.nii.gz",
+            "moving_seg": "./test/seg0190.nii.gz"
+        },
+        {
+            "fixed": "./test/img0368.nii.gz",
+            "fixed_seg": "./test/seg0368.nii.gz",
+            "moving": "./test/img0288.nii.gz",
+            "moving_seg": "./test/seg0288.nii.gz"
+        },
+        {
+            "fixed": "./test/img0374.nii.gz",
+            "fixed_seg": "./test/seg0374.nii.gz",
+            "moving": "./test/img0177.nii.gz",
+            "moving_seg": "./test/seg0177.nii.gz"
+        },
+        {
+            "fixed": "./test/img0374.nii.gz",
+            "fixed_seg": "./test/seg0374.nii.gz",
+            "moving": "./test/img0328.nii.gz",
+            "moving_seg": "./test/seg0328.nii.gz"
+        },
+        {
+            "fixed": "./test/img0378.nii.gz",
+            "fixed_seg": "./test/seg0378.nii.gz",
+            "moving": "./test/img0024.nii.gz",
+            "moving_seg": "./test/seg0024.nii.gz"
+        },
+        {
+            "fixed": "./test/img0378.nii.gz",
+            "fixed_seg": "./test/seg0378.nii.gz",
+            "moving": "./test/img0149.nii.gz",
+            "moving_seg": "./test/seg0149.nii.gz"
+        },
+        {
+            "fixed": "./test/img0378.nii.gz",
+            "fixed_seg": "./test/seg0378.nii.gz",
+            "moving": "./test/img0360.nii.gz",
+            "moving_seg": "./test/seg0360.nii.gz"
+        },
+        {
+            "fixed": "./test/img0380.nii.gz",
+            "fixed_seg": "./test/seg0380.nii.gz",
+            "moving": "./test/img0302.nii.gz",
+            "moving_seg": "./test/seg0302.nii.gz"
+        },
+        {
+            "fixed": "./test/img0394.nii.gz",
+            "fixed_seg": "./test/seg0394.nii.gz",
+            "moving": "./test/img0037.nii.gz",
+            "moving_seg": "./test/seg0037.nii.gz"
+        },
+        {
+            "fixed": "./test/img0394.nii.gz",
+            "fixed_seg": "./test/seg0394.nii.gz",
+            "moving": "./test/img0187.nii.gz",
+            "moving_seg": "./test/seg0187.nii.gz"
+        },
+        {
+            "fixed": "./test/img0394.nii.gz",
+            "fixed_seg": "./test/seg0394.nii.gz",
+            "moving": "./test/img0215.nii.gz",
+            "moving_seg": "./test/seg0215.nii.gz"
+        },
+        {
+            "fixed": "./test/img0394.nii.gz",
+            "fixed_seg": "./test/seg0394.nii.gz",
+            "moving": "./test/img0360.nii.gz",
+            "moving_seg": "./test/seg0360.nii.gz"
+        },
+        {
+            "fixed": "./test/img0396.nii.gz",
+            "fixed_seg": "./test/seg0396.nii.gz",
+            "moving": "./test/img0143.nii.gz",
+            "moving_seg": "./test/seg0143.nii.gz"
+        },
+        {
+            "fixed": "./test/img0396.nii.gz",
+            "fixed_seg": "./test/seg0396.nii.gz",
+            "moving": "./test/img0380.nii.gz",
+            "moving_seg": "./test/seg0380.nii.gz"
+        },
+        {
+            "fixed": "./test/img0399.nii.gz",
+            "fixed_seg": "./test/seg0399.nii.gz",
+            "moving": "./test/img0380.nii.gz",
+            "moving_seg": "./test/seg0380.nii.gz"
+        },
+        {
+            "fixed": "./test/img0399.nii.gz",
+            "fixed_seg": "./test/seg0399.nii.gz",
+            "moving": "./test/img0411.nii.gz",
+            "moving_seg": "./test/seg0411.nii.gz"
+        },
+        {
+            "fixed": "./test/img0402.nii.gz",
+            "fixed_seg": "./test/seg0402.nii.gz",
+            "moving": "./test/img0037.nii.gz",
+            "moving_seg": "./test/seg0037.nii.gz"
+        },
+        {
+            "fixed": "./test/img0402.nii.gz",
+            "fixed_seg": "./test/seg0402.nii.gz",
+            "moving": "./test/img0360.nii.gz",
+            "moving_seg": "./test/seg0360.nii.gz"
+        },
+        {
+            "fixed": "./test/img0402.nii.gz",
+            "fixed_seg": "./test/seg0402.nii.gz",
+            "moving": "./test/img0399.nii.gz",
+            "moving_seg": "./test/seg0399.nii.gz"
+        },
+        {
+            "fixed": "./test/img0403.nii.gz",
+            "fixed_seg": "./test/seg0403.nii.gz",
+            "moving": "./test/img0036.nii.gz",
+            "moving_seg": "./test/seg0036.nii.gz"
+        },
+        {
+            "fixed": "./test/img0403.nii.gz",
+            "fixed_seg": "./test/seg0403.nii.gz",
+            "moving": "./test/img0396.nii.gz",
+            "moving_seg": "./test/seg0396.nii.gz"
+        },
+        {
+            "fixed": "./test/img0405.nii.gz",
+            "fixed_seg": "./test/seg0405.nii.gz",
+            "moving": "./test/img0050.nii.gz",
+            "moving_seg": "./test/seg0050.nii.gz"
+        },
+        {
+            "fixed": "./test/img0405.nii.gz",
+            "fixed_seg": "./test/seg0405.nii.gz",
+            "moving": "./test/img0064.nii.gz",
+            "moving_seg": "./test/seg0064.nii.gz"
+        },
+        {
+            "fixed": "./test/img0405.nii.gz",
+            "fixed_seg": "./test/seg0405.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        },
+        {
+            "fixed": "./test/img0411.nii.gz",
+            "fixed_seg": "./test/seg0411.nii.gz",
+            "moving": "./test/img0309.nii.gz",
+            "moving_seg": "./test/seg0309.nii.gz"
+        },
+        {
+            "fixed": "./test/img0411.nii.gz",
+            "fixed_seg": "./test/seg0411.nii.gz",
+            "moving": "./test/img0339.nii.gz",
+            "moving_seg": "./test/seg0339.nii.gz"
+        }
+    ],
+    "test_100": [
+        {
+            "fixed": "./test/img0004.nii.gz",
+            "fixed_seg": "./test/seg0004.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        },
+        {
+            "fixed": "./test/img0013.nii.gz",
+            "fixed_seg": "./test/seg0013.nii.gz",
+            "moving": "./test/img0120.nii.gz",
+            "moving_seg": "./test/seg0120.nii.gz"
+        },
+        {
+            "fixed": "./test/img0013.nii.gz",
+            "fixed_seg": "./test/seg0013.nii.gz",
+            "moving": "./test/img0215.nii.gz",
+            "moving_seg": "./test/seg0215.nii.gz"
+        },
+        {
+            "fixed": "./test/img0014.nii.gz",
+            "fixed_seg": "./test/seg0014.nii.gz",
+            "moving": "./test/img0023.nii.gz",
+            "moving_seg": "./test/seg0023.nii.gz"
+        },
+        {
+            "fixed": "./test/img0014.nii.gz",
+            "fixed_seg": "./test/seg0014.nii.gz",
+            "moving": "./test/img0149.nii.gz",
+            "moving_seg": "./test/seg0149.nii.gz"
+        },
+        {
+            "fixed": "./test/img0023.nii.gz",
+            "fixed_seg": "./test/seg0023.nii.gz",
+            "moving": "./test/img0013.nii.gz",
+            "moving_seg": "./test/seg0013.nii.gz"
+        },
+        {
+            "fixed": "./test/img0024.nii.gz",
+            "fixed_seg": "./test/seg0024.nii.gz",
+            "moving": "./test/img0053.nii.gz",
+            "moving_seg": "./test/seg0053.nii.gz"
+        },
+        {
+            "fixed": "./test/img0036.nii.gz",
+            "fixed_seg": "./test/seg0036.nii.gz",
+            "moving": "./test/img0072.nii.gz",
+            "moving_seg": "./test/seg0072.nii.gz"
+        },
+        {
+            "fixed": "./test/img0037.nii.gz",
+            "fixed_seg": "./test/seg0037.nii.gz",
+            "moving": "./test/img0394.nii.gz",
+            "moving_seg": "./test/seg0394.nii.gz"
+        },
+        {
+            "fixed": "./test/img0041.nii.gz",
+            "fixed_seg": "./test/seg0041.nii.gz",
+            "moving": "./test/img0275.nii.gz",
+            "moving_seg": "./test/seg0275.nii.gz"
+        },
+        {
+            "fixed": "./test/img0048.nii.gz",
+            "fixed_seg": "./test/seg0048.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0326.nii.gz",
+            "moving_seg": "./test/seg0326.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0328.nii.gz",
+            "moving_seg": "./test/seg0328.nii.gz"
+        },
+        {
+            "fixed": "./test/img0052.nii.gz",
+            "fixed_seg": "./test/seg0052.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0175.nii.gz",
+            "moving_seg": "./test/seg0175.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0064.nii.gz",
+            "fixed_seg": "./test/seg0064.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0064.nii.gz",
+            "fixed_seg": "./test/seg0064.nii.gz",
+            "moving": "./test/img0017.nii.gz",
+            "moving_seg": "./test/seg0017.nii.gz"
+        },
+        {
+            "fixed": "./test/img0080.nii.gz",
+            "fixed_seg": "./test/seg0080.nii.gz",
+            "moving": "./test/img0048.nii.gz",
+            "moving_seg": "./test/seg0048.nii.gz"
+        },
+        {
+            "fixed": "./test/img0080.nii.gz",
+            "fixed_seg": "./test/seg0080.nii.gz",
+            "moving": "./test/img0194.nii.gz",
+            "moving_seg": "./test/seg0194.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0004.nii.gz",
+            "moving_seg": "./test/seg0004.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0041.nii.gz",
+            "moving_seg": "./test/seg0041.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0111.nii.gz",
+            "moving_seg": "./test/seg0111.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0045.nii.gz",
+            "moving_seg": "./test/seg0045.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0108.nii.gz",
+            "moving_seg": "./test/seg0108.nii.gz"
+        },
+        {
+            "fixed": "./test/img0099.nii.gz",
+            "fixed_seg": "./test/seg0099.nii.gz",
+            "moving": "./test/img0367.nii.gz",
+            "moving_seg": "./test/seg0367.nii.gz"
+        },
+        {
+            "fixed": "./test/img0102.nii.gz",
+            "fixed_seg": "./test/seg0102.nii.gz",
+            "moving": "./test/img0296.nii.gz",
+            "moving_seg": "./test/seg0296.nii.gz"
+        },
+        {
+            "fixed": "./test/img0108.nii.gz",
+            "fixed_seg": "./test/seg0108.nii.gz",
+            "moving": "./test/img0280.nii.gz",
+            "moving_seg": "./test/seg0280.nii.gz"
+        },
+        {
+            "fixed": "./test/img0108.nii.gz",
+            "fixed_seg": "./test/seg0108.nii.gz",
+            "moving": "./test/img0405.nii.gz",
+            "moving_seg": "./test/seg0405.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0017.nii.gz",
+            "moving_seg": "./test/seg0017.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0099.nii.gz",
+            "moving_seg": "./test/seg0099.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0405.nii.gz",
+            "moving_seg": "./test/seg0405.nii.gz"
+        },
+        {
+            "fixed": "./test/img0117.nii.gz",
+            "fixed_seg": "./test/seg0117.nii.gz",
+            "moving": "./test/img0280.nii.gz",
+            "moving_seg": "./test/seg0280.nii.gz"
+        },
+        {
+            "fixed": "./test/img0120.nii.gz",
+            "fixed_seg": "./test/seg0120.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0126.nii.gz",
+            "fixed_seg": "./test/seg0126.nii.gz",
+            "moving": "./test/img0023.nii.gz",
+            "moving_seg": "./test/seg0023.nii.gz"
+        },
+        {
+            "fixed": "./test/img0126.nii.gz",
+            "fixed_seg": "./test/seg0126.nii.gz",
+            "moving": "./test/img0112.nii.gz",
+            "moving_seg": "./test/seg0112.nii.gz"
+        },
+        {
+            "fixed": "./test/img0137.nii.gz",
+            "fixed_seg": "./test/seg0137.nii.gz",
+            "moving": "./test/img0017.nii.gz",
+            "moving_seg": "./test/seg0017.nii.gz"
+        },
+        {
+            "fixed": "./test/img0141.nii.gz",
+            "fixed_seg": "./test/seg0141.nii.gz",
+            "moving": "./test/img0004.nii.gz",
+            "moving_seg": "./test/seg0004.nii.gz"
+        },
+        {
+            "fixed": "./test/img0143.nii.gz",
+            "fixed_seg": "./test/seg0143.nii.gz",
+            "moving": "./test/img0117.nii.gz",
+            "moving_seg": "./test/seg0117.nii.gz"
+        },
+        {
+            "fixed": "./test/img0149.nii.gz",
+            "fixed_seg": "./test/seg0149.nii.gz",
+            "moving": "./test/img0182.nii.gz",
+            "moving_seg": "./test/seg0182.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0053.nii.gz",
+            "moving_seg": "./test/seg0053.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0080.nii.gz",
+            "moving_seg": "./test/seg0080.nii.gz"
+        },
+        {
+            "fixed": "./test/img0151.nii.gz",
+            "fixed_seg": "./test/seg0151.nii.gz",
+            "moving": "./test/img0396.nii.gz",
+            "moving_seg": "./test/seg0396.nii.gz"
+        },
+        {
+            "fixed": "./test/img0175.nii.gz",
+            "fixed_seg": "./test/seg0175.nii.gz",
+            "moving": "./test/img0053.nii.gz",
+            "moving_seg": "./test/seg0053.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0111.nii.gz",
+            "moving_seg": "./test/seg0111.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0187.nii.gz",
+            "moving_seg": "./test/seg0187.nii.gz"
+        },
+        {
+            "fixed": "./test/img0182.nii.gz",
+            "fixed_seg": "./test/seg0182.nii.gz",
+            "moving": "./test/img0115.nii.gz",
+            "moving_seg": "./test/seg0115.nii.gz"
+        },
+        {
+            "fixed": "./test/img0184.nii.gz",
+            "fixed_seg": "./test/seg0184.nii.gz",
+            "moving": "./test/img0182.nii.gz",
+            "moving_seg": "./test/seg0182.nii.gz"
+        },
+        {
+            "fixed": "./test/img0184.nii.gz",
+            "fixed_seg": "./test/seg0184.nii.gz",
+            "moving": "./test/img0374.nii.gz",
+            "moving_seg": "./test/seg0374.nii.gz"
+        },
+        {
+            "fixed": "./test/img0186.nii.gz",
+            "fixed_seg": "./test/seg0186.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0186.nii.gz",
+            "fixed_seg": "./test/seg0186.nii.gz",
+            "moving": "./test/img0403.nii.gz",
+            "moving_seg": "./test/seg0403.nii.gz"
+        },
+        {
+            "fixed": "./test/img0187.nii.gz",
+            "fixed_seg": "./test/seg0187.nii.gz",
+            "moving": "./test/img0411.nii.gz",
+            "moving_seg": "./test/seg0411.nii.gz"
+        },
+        {
+            "fixed": "./test/img0190.nii.gz",
+            "fixed_seg": "./test/seg0190.nii.gz",
+            "moving": "./test/img0380.nii.gz",
+            "moving_seg": "./test/seg0380.nii.gz"
+        },
+        {
+            "fixed": "./test/img0194.nii.gz",
+            "fixed_seg": "./test/seg0194.nii.gz",
+            "moving": "./test/img0184.nii.gz",
+            "moving_seg": "./test/seg0184.nii.gz"
+        },
+        {
+            "fixed": "./test/img0194.nii.gz",
+            "fixed_seg": "./test/seg0194.nii.gz",
+            "moving": "./test/img0357.nii.gz",
+            "moving_seg": "./test/seg0357.nii.gz"
+        },
+        {
+            "fixed": "./test/img0195.nii.gz",
+            "fixed_seg": "./test/seg0195.nii.gz",
+            "moving": "./test/img0041.nii.gz",
+            "moving_seg": "./test/seg0041.nii.gz"
+        },
+        {
+            "fixed": "./test/img0215.nii.gz",
+            "fixed_seg": "./test/seg0215.nii.gz",
+            "moving": "./test/img0326.nii.gz",
+            "moving_seg": "./test/seg0326.nii.gz"
+        },
+        {
+            "fixed": "./test/img0217.nii.gz",
+            "fixed_seg": "./test/seg0217.nii.gz",
+            "moving": "./test/img0230.nii.gz",
+            "moving_seg": "./test/seg0230.nii.gz"
+        },
+        {
+            "fixed": "./test/img0230.nii.gz",
+            "fixed_seg": "./test/seg0230.nii.gz",
+            "moving": "./test/img0112.nii.gz",
+            "moving_seg": "./test/seg0112.nii.gz"
+        },
+        {
+            "fixed": "./test/img0230.nii.gz",
+            "fixed_seg": "./test/seg0230.nii.gz",
+            "moving": "./test/img0374.nii.gz",
+            "moving_seg": "./test/seg0374.nii.gz"
+        },
+        {
+            "fixed": "./test/img0233.nii.gz",
+            "fixed_seg": "./test/seg0233.nii.gz",
+            "moving": "./test/img0303.nii.gz",
+            "moving_seg": "./test/seg0303.nii.gz"
+        },
+        {
+            "fixed": "./test/img0259.nii.gz",
+            "fixed_seg": "./test/seg0259.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0259.nii.gz",
+            "fixed_seg": "./test/seg0259.nii.gz",
+            "moving": "./test/img0275.nii.gz",
+            "moving_seg": "./test/seg0275.nii.gz"
+        },
+        {
+            "fixed": "./test/img0275.nii.gz",
+            "fixed_seg": "./test/seg0275.nii.gz",
+            "moving": "./test/img0402.nii.gz",
+            "moving_seg": "./test/seg0402.nii.gz"
+        },
+        {
+            "fixed": "./test/img0283.nii.gz",
+            "fixed_seg": "./test/seg0283.nii.gz",
+            "moving": "./test/img0368.nii.gz",
+            "moving_seg": "./test/seg0368.nii.gz"
+        },
+        {
+            "fixed": "./test/img0288.nii.gz",
+            "fixed_seg": "./test/seg0288.nii.gz",
+            "moving": "./test/img0024.nii.gz",
+            "moving_seg": "./test/seg0024.nii.gz"
+        },
+        {
+            "fixed": "./test/img0288.nii.gz",
+            "fixed_seg": "./test/seg0288.nii.gz",
+            "moving": "./test/img0137.nii.gz",
+            "moving_seg": "./test/seg0137.nii.gz"
+        },
+        {
+            "fixed": "./test/img0296.nii.gz",
+            "fixed_seg": "./test/seg0296.nii.gz",
+            "moving": "./test/img0195.nii.gz",
+            "moving_seg": "./test/seg0195.nii.gz"
+        },
+        {
+            "fixed": "./test/img0303.nii.gz",
+            "fixed_seg": "./test/seg0303.nii.gz",
+            "moving": "./test/img0141.nii.gz",
+            "moving_seg": "./test/seg0141.nii.gz"
+        },
+        {
+            "fixed": "./test/img0303.nii.gz",
+            "fixed_seg": "./test/seg0303.nii.gz",
+            "moving": "./test/img0328.nii.gz",
+            "moving_seg": "./test/seg0328.nii.gz"
+        },
+        {
+            "fixed": "./test/img0309.nii.gz",
+            "fixed_seg": "./test/seg0309.nii.gz",
+            "moving": "./test/img0072.nii.gz",
+            "moving_seg": "./test/seg0072.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0102.nii.gz",
+            "moving_seg": "./test/seg0102.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0399.nii.gz",
+            "moving_seg": "./test/seg0399.nii.gz"
+        },
+        {
+            "fixed": "./test/img0317.nii.gz",
+            "fixed_seg": "./test/seg0317.nii.gz",
+            "moving": "./test/img0136.nii.gz",
+            "moving_seg": "./test/seg0136.nii.gz"
+        },
+        {
+            "fixed": "./test/img0317.nii.gz",
+            "fixed_seg": "./test/seg0317.nii.gz",
+            "moving": "./test/img0309.nii.gz",
+            "moving_seg": "./test/seg0309.nii.gz"
+        },
+        {
+            "fixed": "./test/img0326.nii.gz",
+            "fixed_seg": "./test/seg0326.nii.gz",
+            "moving": "./test/img0120.nii.gz",
+            "moving_seg": "./test/seg0120.nii.gz"
+        },
+        {
+            "fixed": "./test/img0328.nii.gz",
+            "fixed_seg": "./test/seg0328.nii.gz",
+            "moving": "./test/img0302.nii.gz",
+            "moving_seg": "./test/seg0302.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0016.nii.gz",
+            "moving_seg": "./test/seg0016.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0115.nii.gz",
+            "moving_seg": "./test/seg0115.nii.gz"
+        },
+        {
+            "fixed": "./test/img0333.nii.gz",
+            "fixed_seg": "./test/seg0333.nii.gz",
+            "moving": "./test/img0322.nii.gz",
+            "moving_seg": "./test/seg0322.nii.gz"
+        },
+        {
+            "fixed": "./test/img0339.nii.gz",
+            "fixed_seg": "./test/seg0339.nii.gz",
+            "moving": "./test/img0052.nii.gz",
+            "moving_seg": "./test/seg0052.nii.gz"
+        },
+        {
+            "fixed": "./test/img0347.nii.gz",
+            "fixed_seg": "./test/seg0347.nii.gz",
+            "moving": "./test/img0045.nii.gz",
+            "moving_seg": "./test/seg0045.nii.gz"
+        },
+        {
+            "fixed": "./test/img0347.nii.gz",
+            "fixed_seg": "./test/seg0347.nii.gz",
+            "moving": "./test/img0136.nii.gz",
+            "moving_seg": "./test/seg0136.nii.gz"
+        },
+        {
+            "fixed": "./test/img0357.nii.gz",
+            "fixed_seg": "./test/seg0357.nii.gz",
+            "moving": "./test/img0302.nii.gz",
+            "moving_seg": "./test/seg0302.nii.gz"
+        },
+        {
+            "fixed": "./test/img0358.nii.gz",
+            "fixed_seg": "./test/seg0358.nii.gz",
+            "moving": "./test/img0283.nii.gz",
+            "moving_seg": "./test/seg0283.nii.gz"
+        },
+        {
+            "fixed": "./test/img0358.nii.gz",
+            "fixed_seg": "./test/seg0358.nii.gz",
+            "moving": "./test/img0378.nii.gz",
+            "moving_seg": "./test/seg0378.nii.gz"
+        },
+        {
+            "fixed": "./test/img0360.nii.gz",
+            "fixed_seg": "./test/seg0360.nii.gz",
+            "moving": "./test/img0233.nii.gz",
+            "moving_seg": "./test/seg0233.nii.gz"
+        },
+        {
+            "fixed": "./test/img0367.nii.gz",
+            "fixed_seg": "./test/seg0367.nii.gz",
+            "moving": "./test/img0378.nii.gz",
+            "moving_seg": "./test/seg0378.nii.gz"
+        },
+        {
+            "fixed": "./test/img0368.nii.gz",
+            "fixed_seg": "./test/seg0368.nii.gz",
+            "moving": "./test/img0190.nii.gz",
+            "moving_seg": "./test/seg0190.nii.gz"
+        },
+        {
+            "fixed": "./test/img0378.nii.gz",
+            "fixed_seg": "./test/seg0378.nii.gz",
+            "moving": "./test/img0149.nii.gz",
+            "moving_seg": "./test/seg0149.nii.gz"
+        },
+        {
+            "fixed": "./test/img0394.nii.gz",
+            "fixed_seg": "./test/seg0394.nii.gz",
+            "moving": "./test/img0037.nii.gz",
+            "moving_seg": "./test/seg0037.nii.gz"
+        },
+        {
+            "fixed": "./test/img0396.nii.gz",
+            "fixed_seg": "./test/seg0396.nii.gz",
+            "moving": "./test/img0143.nii.gz",
+            "moving_seg": "./test/seg0143.nii.gz"
+        },
+        {
+            "fixed": "./test/img0399.nii.gz",
+            "fixed_seg": "./test/seg0399.nii.gz",
+            "moving": "./test/img0380.nii.gz",
+            "moving_seg": "./test/seg0380.nii.gz"
+        },
+        {
+            "fixed": "./test/img0402.nii.gz",
+            "fixed_seg": "./test/seg0402.nii.gz",
+            "moving": "./test/img0360.nii.gz",
+            "moving_seg": "./test/seg0360.nii.gz"
+        },
+        {
+            "fixed": "./test/img0402.nii.gz",
+            "fixed_seg": "./test/seg0402.nii.gz",
+            "moving": "./test/img0399.nii.gz",
+            "moving_seg": "./test/seg0399.nii.gz"
+        },
+        {
+            "fixed": "./test/img0403.nii.gz",
+            "fixed_seg": "./test/seg0403.nii.gz",
+            "moving": "./test/img0036.nii.gz",
+            "moving_seg": "./test/seg0036.nii.gz"
+        },
+        {
+            "fixed": "./test/img0405.nii.gz",
+            "fixed_seg": "./test/seg0405.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        },
+        {
+            "fixed": "./test/img0411.nii.gz",
+            "fixed_seg": "./test/seg0411.nii.gz",
+            "moving": "./test/img0339.nii.gz",
+            "moving_seg": "./test/seg0339.nii.gz"
+        }
+    ],
+    "test_020": [
+        {
+            "fixed": "./test/img0037.nii.gz",
+            "fixed_seg": "./test/seg0037.nii.gz",
+            "moving": "./test/img0394.nii.gz",
+            "moving_seg": "./test/seg0394.nii.gz"
+        },
+        {
+            "fixed": "./test/img0050.nii.gz",
+            "fixed_seg": "./test/seg0050.nii.gz",
+            "moving": "./test/img0173.nii.gz",
+            "moving_seg": "./test/seg0173.nii.gz"
+        },
+        {
+            "fixed": "./test/img0058.nii.gz",
+            "fixed_seg": "./test/seg0058.nii.gz",
+            "moving": "./test/img0217.nii.gz",
+            "moving_seg": "./test/seg0217.nii.gz"
+        },
+        {
+            "fixed": "./test/img0082.nii.gz",
+            "fixed_seg": "./test/seg0082.nii.gz",
+            "moving": "./test/img0041.nii.gz",
+            "moving_seg": "./test/seg0041.nii.gz"
+        },
+        {
+            "fixed": "./test/img0084.nii.gz",
+            "fixed_seg": "./test/seg0084.nii.gz",
+            "moving": "./test/img0045.nii.gz",
+            "moving_seg": "./test/seg0045.nii.gz"
+        },
+        {
+            "fixed": "./test/img0113.nii.gz",
+            "fixed_seg": "./test/seg0113.nii.gz",
+            "moving": "./test/img0099.nii.gz",
+            "moving_seg": "./test/seg0099.nii.gz"
+        },
+        {
+            "fixed": "./test/img0126.nii.gz",
+            "fixed_seg": "./test/seg0126.nii.gz",
+            "moving": "./test/img0023.nii.gz",
+            "moving_seg": "./test/seg0023.nii.gz"
+        },
+        {
+            "fixed": "./test/img0141.nii.gz",
+            "fixed_seg": "./test/seg0141.nii.gz",
+            "moving": "./test/img0004.nii.gz",
+            "moving_seg": "./test/seg0004.nii.gz"
+        },
+        {
+            "fixed": "./test/img0177.nii.gz",
+            "fixed_seg": "./test/seg0177.nii.gz",
+            "moving": "./test/img0111.nii.gz",
+            "moving_seg": "./test/seg0111.nii.gz"
+        },
+        {
+            "fixed": "./test/img0233.nii.gz",
+            "fixed_seg": "./test/seg0233.nii.gz",
+            "moving": "./test/img0303.nii.gz",
+            "moving_seg": "./test/seg0303.nii.gz"
+        },
+        {
+            "fixed": "./test/img0288.nii.gz",
+            "fixed_seg": "./test/seg0288.nii.gz",
+            "moving": "./test/img0024.nii.gz",
+            "moving_seg": "./test/seg0024.nii.gz"
+        },
+        {
+            "fixed": "./test/img0296.nii.gz",
+            "fixed_seg": "./test/seg0296.nii.gz",
+            "moving": "./test/img0195.nii.gz",
+            "moving_seg": "./test/seg0195.nii.gz"
+        },
+        {
+            "fixed": "./test/img0310.nii.gz",
+            "fixed_seg": "./test/seg0310.nii.gz",
+            "moving": "./test/img0102.nii.gz",
+            "moving_seg": "./test/seg0102.nii.gz"
+        },
+        {
+            "fixed": "./test/img0317.nii.gz",
+            "fixed_seg": "./test/seg0317.nii.gz",
+            "moving": "./test/img0309.nii.gz",
+            "moving_seg": "./test/seg0309.nii.gz"
+        },
+        {
+            "fixed": "./test/img0328.nii.gz",
+            "fixed_seg": "./test/seg0328.nii.gz",
+            "moving": "./test/img0302.nii.gz",
+            "moving_seg": "./test/seg0302.nii.gz"
+        },
+        {
+            "fixed": "./test/img0358.nii.gz",
+            "fixed_seg": "./test/seg0358.nii.gz",
+            "moving": "./test/img0283.nii.gz",
+            "moving_seg": "./test/seg0283.nii.gz"
+        },
+        {
+            "fixed": "./test/img0367.nii.gz",
+            "fixed_seg": "./test/seg0367.nii.gz",
+            "moving": "./test/img0378.nii.gz",
+            "moving_seg": "./test/seg0378.nii.gz"
+        },
+        {
+            "fixed": "./test/img0368.nii.gz",
+            "fixed_seg": "./test/seg0368.nii.gz",
+            "moving": "./test/img0190.nii.gz",
+            "moving_seg": "./test/seg0190.nii.gz"
+        },
+        {
+            "fixed": "./test/img0399.nii.gz",
+            "fixed_seg": "./test/seg0399.nii.gz",
+            "moving": "./test/img0380.nii.gz",
+            "moving_seg": "./test/seg0380.nii.gz"
+        },
+        {
+            "fixed": "./test/img0405.nii.gz",
+            "fixed_seg": "./test/seg0405.nii.gz",
+            "moving": "./test/img0236.nii.gz",
+            "moving_seg": "./test/seg0236.nii.gz"
+        }
+    ]
+}
