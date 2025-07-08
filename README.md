@@ -5,27 +5,27 @@ Unsupervised Deformable Image Registration Revisited: Enhancing Performance thro
 Keywords: Deformable Image Registration, Unsupervised Learning, Benchmark, Ablation Study
 
 ## TL;DR <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
-We highlight the value of incorporating registration-specific designs, including **multi-resolution pyramids**, **local correlation calculation**, and **inverse consistency constraints**, for unsupervised monomodal deformable image registration. **With these designs, simple network architectures can achieve competitive performance, potentially with far less training data.**
-
-
+We highlight the value of three registration-specific designs — **multi-resolution pyramids, local correlation calculation, and inverse consistency constraints** — in unsupervised mono-modal deformable image registration. **By relying solely on these principles, simple network architectures (i.e. without large convolutional kernels, attention gates, or feature-level self- or cross-attention) can achieve competitive results, and potentially with far less training data**.
 
 ## New features and updates <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
+07/08/2025 **Finalized the repository**  
 05/05/2025 **We updated the [validation results](#lumir-validation-results) on the 2024 Learn2Reg LUMIR Challenge**  
 05/01/2025 **Our paper got accepted by MIDL 2025 short paper track**
 
 ## Progress
-- [x] Upload basic code (cleanup: todo)
-- [x] Upload config files (cleanup: todo)
-- [ ] Training and testing scripts
-- [ ] Dataset split information
-- [ ] Finalize README.md
+- [x] Upload basic code
+- [x] Upload config files
+- [x] Training scripts
+- [x] Dataset split information
+- [x] Finalize README.md
 
-## To do
-- [ ] The current implementation of DP-ConvIC-C calculates correlation both ways separately, which is not optimal
+## Planned Enhancements
+> **Note:** The items below are planned enhancements. They may be delayed or even skipped, depending on available time.
+- [ ] Refactor and clean up codebase
+- [ ] Add scripts for testing and visualization
+- [ ] Optimize DP-ConvIC-C: The current implementation of DP-ConvIC-C calculates correlation both ways separately, which is redundant.
 
-
-
-# Acknowledgement
+## Acknowledgement
 This work is largely inspired by:
 - [rethink-reg](https://github.com/BailiangJ/rethink-reg)
 - [Magic-or-Mirage](https://github.com/rohitrango/Magic-or-Mirage)
@@ -40,7 +40,11 @@ We also thank the following repositories for providing helpful code and data res
 - [deformation-inversion-layer](https://github.com/honkamj/deformation-inversion-layer)
 - [composable-mapping](https://github.com/honkamj/composable-mapping)
 
-# Method
+## Contact
+
+Contributions and feedback are welcome! Please open an issue or submit a pull request. For direct inquiries, you can also reach me at <hjliu@g.ucla.edu>.
+
+## Methods
 ![Figure 1: Network backbone for controlled registration experiments. The dual-stream pyramid (DP) architecture5 is adopted with the same feature encoder and different variations of deformation decoder (DD) block](images/method_figure1_overview.png)
 #### Figure 1 – Network backbone for controlled registration experiments. The dual-stream pyramid (DP) architecture5 is adopted with the same feature encoder and different variations of deformation decoder (DD) block.
 
@@ -48,7 +52,7 @@ We also thank the following repositories for providing helpful code and data res
 
 ![Table 1: Summary of the proposed variants and comparing methods](images/method_table1_summary.png)
 
-# Results
+## Results
 <a name="lumir-validation-results"></a>
 **LUMIR Validation Results**
 
