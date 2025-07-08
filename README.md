@@ -54,7 +54,7 @@ Contributions and feedback are welcome! Please open an issue or submit a pull re
 
 ## Results
 <a name="lumir-validation-results"></a>
-**LUMIR Validation Results**
+**1-1 LUMIR Validation Results**
 
 | Model                     | Dice↑             | TRE↓ (mm) | NDV↓ (%)   | HdDist95↓ |
 |---------------------------|-------------------|-----------|------------|-----------|
@@ -82,7 +82,7 @@ Contributions and feedback are welcome! Please open an issue or submit a pull re
 &emsp; SITReg-v2: Final version further trained with group consistency loss + NDV loss (not used by other methods in this table).  
 <sup>3</sup> All of “Ours” (re-trained baselines & variants) were run with the same random seed for the dataloader and identical learning-rate scheduling.
 
-**LUMIR Validation Results using (b) DP-ConvIC-C with different training set sizes**  
+**1-2 LUMIR Validation Results using (b) DP-ConvIC-C with different training set sizes**  
 Note: In theory, for inter-subject registration with N subjects, N*(N-1) pairs are available for training.
 
 | Training set size | Dice↑               | HD95↓    | TRE (mm)↓   | NDV (%)↓   |
@@ -96,7 +96,7 @@ Note: In theory, for inter-subject registration with N subjects, N*(N-1) pairs a
 | 20                | 0.7674 ± 0.0288     | 3.4521   | 2.4053      | 0.0358     |
 | 10                | 0.7642 ± 0.0308     | 3.5216   | 2.3771      | 0.0361     |
 
-**OASIS test set (200 pairs)**  
+**2 OASIS test set (200 pairs)**  
 Metrics in **bold** denote the best-performing methods, while those <ins>underlined</ins> are competitively close.
 
 | Method                  | Dice ↑                             | HD95 ↓                              | SDlogJ (×100) ↓                         | NDV (%) ↓                         |
