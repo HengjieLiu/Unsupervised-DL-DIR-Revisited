@@ -1,8 +1,8 @@
 dataset_name: LUMIR_v1
 img_size: [160, 224, 192]
-transmorph_dir: /homebase/DL_projects/wavereg/TransMorph_Transformer_for_Medical_Image_Registration/OASIS/TransMorph
-voxelmorph_models_path: /homebase/DL_projects/wavereg/LUMIR_L2R/VoxelMorph/models.py
-train_dir: /database/wavereg/datasets/LUMIR_L2R/LUMIR_L2R24_TrainVal/  # note this trailing / is needed
-val_dir: /database/wavereg/datasets/LUMIR_L2R/LUMIR_L2R24_TrainVal/    # note this trailing / is needed
+transmorph_dir: /homebase/TransMorph_Transformer_for_Medical_Image_Registration/OASIS/TransMorph
+voxelmorph_models_path: /homebase/LUMIR_L2R/VoxelMorph/models.py
+train_dir: /database/LUMIR_L2R/LUMIR_L2R24_TrainVal/  # note this trailing / is needed
+val_dir: /database/LUMIR_L2R/LUMIR_L2R24_TrainVal/    # note this trailing / is needed
 test_dir: null
-json_path: /database/wavereg/datasets/LUMIR_L2R/LUMIR_L2R24_TrainVal/LUMIR_dataset.json
+json_path: /database/LUMIR_L2R/LUMIR_L2R24_TrainVal/LUMIR_dataset.json
