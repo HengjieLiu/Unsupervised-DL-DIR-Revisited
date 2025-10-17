@@ -1,0 +1,140 @@
+# Python Environment & Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+.env/
+
+# PyTorch & Deep Learning Models
+*.pth
+*.pt
+*.pth.tar
+*.ckpt
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Medical Imaging Data Files
+# Note: Add actual data files on demand, keep folder structure
+data/*.nii.gz
+data/**/*.nii.gz
+datasets/*.nii.gz
+datasets/**/*.nii.gz
+*.nii
+*.dcm
+*.dicom
+*.mhd
+*.raw
+*.img
+*.hdr
+
+# Keep folder structure for data directories
+!data/
+!data/.gitkeep
+!datasets/
+!datasets/.gitkeep
+
+# Training Outputs & Logs
+logs/
+log_*.log
+checkpoint_*/
+checkpoint_final/
+outputs/
+results/
+runs/
+*.log
+
+# Experiment Tracking
+wandb/
+.wandb/
+tensorboard_logs/
+tb_logs/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# System & Temporary Files
+tmp/
+temp/
+*.tmp
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Configuration & Secrets
+.env
+config_local.yaml
+secrets.yaml
+*.key
+*.pem
+
+# Large Files & Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bin
+*.exe
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Git LFS (if you decide to use it later)
+# Uncomment these lines if you want to use Git LFS for large files
+# *.nii.gz filter=lfs diff=lfs merge=lfs -text
+# *.pth filter=lfs diff=lfs merge=lfs -text
+# *.pth.tar filter=lfs diff=lfs merge=lfs -text
