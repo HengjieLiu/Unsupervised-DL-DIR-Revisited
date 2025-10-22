@@ -7,11 +7,12 @@ Keywords: Deformable Image Registration, Unsupervised Learning, Benchmark, Ablat
 ## TL;DR <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
 We highlight the value of three registration-specific designs — **multi-resolution pyramids, local correlation calculation, and inverse consistency constraints** — in unsupervised mono-modal deformable image registration. **By relying solely on these principles, simple network architectures (i.e. without large convolutional kernels, attention gates, or feature-level self- or cross-attention) can achieve competitive results, and potentially with far less training data**.
 
-## New features and updates <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
-07/08/2025 **Finalized the repository**  
-05/05/2025 **We updated the [validation results](#lumir-validation-results) on the 2024 Learn2Reg LUMIR Challenge**  
-05/01/2025 **Our paper got accepted by MIDL 2025 short paper track**  
-10/21/2025 **Add visualization demo (🔥 SUGGESTIONS ARE WELCOME 🔥)** 
+## Repo updates and new features <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
+05/01/2025 Our paper got accepted by MIDL 2025 short paper track   
+05/05/2025 Updated the [validation results](#lumir-validation-results) on the 2024 Learn2Reg LUMIR Challenge    
+07/08/2025 Finalized the repository   
+10/21/2025 🆕 Add demo for [registration results visualization](./demo/example1_visualize_registration_results/) **SUGGESTIONS ARE WELCOME**  
+
 
 ## Progress
 - [x] Upload basic code
@@ -24,7 +25,7 @@ We highlight the value of three registration-specific designs — **multi-resolu
 ## Planned Enhancements
 > **Note:** The items below are planned enhancements. They may be delayed or even skipped, depending on available time.
 - [ ] Refactor and clean up codebase
-- [ ] Optimize DP-ConvIC-C: The current implementation of DP-ConvIC-C calculates correlation both ways separately, which is redundant.
+- [ ] Optimize DP-ConvIC-C: The current implementation of DP-ConvIC-C calculates correlation both ways separately (i.e., corr(I, J) = corr_layer(I, J) and corr(J, I) = corr_layer(J, I)), which is redundant. **Update**: I tried directly obtaining corr(J, I) by remapping corr(I, J), but this seems to be even more memory expensive, need to figure out a better way) **SUGGESTIONS ARE WELCOME**  
 
 ## Acknowledgement
 This work is largely inspired by:
