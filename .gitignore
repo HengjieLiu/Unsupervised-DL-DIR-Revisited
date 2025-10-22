@@ -76,7 +76,7 @@ log_*.log
 checkpoint_*/
 checkpoint_final/
 outputs/
-results/
+# results/ # keep for visualization demo
 runs/
 *.log
 
