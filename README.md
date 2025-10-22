@@ -11,7 +11,7 @@ We highlight the value of three registration-specific designs — **multi-resolu
 07/08/2025 **Finalized the repository**  
 05/05/2025 **We updated the [validation results](#lumir-validation-results) on the 2024 Learn2Reg LUMIR Challenge**  
 05/01/2025 **Our paper got accepted by MIDL 2025 short paper track**  
-10/21/2025 **Add visualization demo (🔥 SUGGESTIONS ARE WELCOME!!!)** 
+10/21/2025 **Add visualization demo (🔥 SUGGESTIONS ARE WELCOME 🔥)** 
 
 ## Progress
 - [x] Upload basic code
@@ -115,7 +115,7 @@ Metrics in **bold** denote the best-performing methods, while those <ins>underli
 | (b) DP-ConvIC-C         | <ins>0.8244 (0.0225)</ins>         | <ins>1.80 (0.45)</ins>              | **12.79 (1.01)**                        | <ins>0.028</ins>                  |
 | (c) DP-VFA              | <ins>0.8199 (0.0237)</ins>         | 1.87 (0.46)                         | <ins>13.91 (0.94)</ins>                 | <ins>0.031</ins>                  |
 
-### OASIS visualization
+### OASIS results visualization
 #### Sagittal
 ![Registration Result - Axis 0](./demo/example1_visualize_registration_results/results/f0004_m0236_axis0_slc071of160.png)
 
